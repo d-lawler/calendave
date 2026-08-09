@@ -1,4 +1,4 @@
-# DAVECAL
+# Calendave
 
 A personal radar for leftfield London — experimental music, repertory cinema, art, and odd happenings at places like Cafe OTO, the ICA, and the Prince Charles Cinema.
 

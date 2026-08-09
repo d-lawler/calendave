@@ -1,33 +1,26 @@
 <template>
   <main>
-    <h2 class="heading">The rooms that matter</h2>
     <p class="intro">
       the evergreen backbone — where to look when the listings run dry.
-      grouped loosely; the best rooms refuse categories anyway.
     </p>
 
-    <div class="grid">
-      <a
-        v-for="v in venues"
-        :key="v.name"
-        :href="v.url"
-        target="_blank"
-        rel="noopener"
-        class="venue"
-        :class="`scene-${v.scenes[0]}`"
-      >
-        <div class="head">
-          <h3>{{ v.name }}</h3>
-          <span class="area">{{ v.area }}</span>
-        </div>
-        <p class="note">{{ v.note }}</p>
-        <div class="chips">
-          <span v-for="s in v.scenes" :key="s" class="chip" :class="`scene-${s}`">
-            {{ s === 'odd' ? 'words & odd' : s }}
-          </span>
-        </div>
-      </a>
-    </div>
+    <a
+      v-for="v in venues"
+      :key="v.name"
+      :href="v.url"
+      target="_blank"
+      rel="noopener"
+      class="row"
+      :class="`scene-${v.scenes[0]}`"
+    >
+      <span class="side">
+        <i class="dot" />{{ v.area }}
+      </span>
+      <span class="body">
+        <span class="name">{{ v.name }}</span>
+        <span class="note">{{ v.note }}</span>
+      </span>
+    </a>
   </main>
 </template>
 
@@ -36,76 +29,66 @@ import venues from '~/data/venues.json'
 </script>
 
 <style scoped>
-.heading {
-  font-size: 1.6rem;
-  font-weight: 900;
-  margin: 0 0 0.3rem;
-}
-
 .intro {
-  font-size: 0.75rem;
-  font-style: italic;
-  color: var(--ink-soft);
-  margin: 0 0 1.4rem;
+  font-size: 0.85rem;
+  color: var(--mut);
+  margin: 0 0 2rem;
 }
 
-.grid {
+.row {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 1rem;
+  grid-template-columns: 8.5rem 1fr;
+  gap: 1.25rem;
+  padding: 0.85rem 0.5rem;
+  margin: 0 -0.5rem;
+  text-decoration: none;
+  border-bottom: 1px solid var(--rule);
+  transition: background 0.12s;
 }
 
-.venue {
-  background: var(--card);
-  border: var(--edge);
-  box-shadow: 4px 4px 0 var(--ink);
-  padding: 0.9rem 1rem;
-  text-decoration: none;
+.row:hover { background: var(--hover); }
+
+.side {
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  color: var(--mut);
+  padding-top: 0.15rem;
+  display: flex;
+  align-items: baseline;
+}
+
+.dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--scene);
+  display: inline-block;
+  margin-right: 0.45rem;
+  flex-shrink: 0;
+  align-self: center;
+}
+
+.body {
   display: flex;
   flex-direction: column;
-  gap: 0.45rem;
-  transition: transform 0.12s, box-shadow 0.12s;
+  gap: 0.15rem;
 }
 
-.venue:hover {
-  transform: translate(-2px, -2px);
-  box-shadow: 7px 7px 0 var(--scene);
+.name {
+  font-weight: 550;
+  font-size: 0.92rem;
+  letter-spacing: -0.01em;
 }
 
-.head {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  gap: 0.5rem;
-}
-
-.head h3 { margin: 0; font-size: 0.98rem; font-weight: 900; }
-
-.area {
-  font-size: 0.64rem;
-  font-weight: 700;
-  white-space: nowrap;
-  color: var(--ink-soft);
-}
+.row:hover .name { color: var(--scene); }
 
 .note {
-  margin: 0;
-  font-size: 0.72rem;
-  line-height: 1.45;
-  color: var(--ink-soft);
-  flex-grow: 1;
+  font-size: 0.78rem;
+  color: var(--mut);
+  line-height: 1.55;
 }
 
-.chips { display: flex; gap: 0.35rem; flex-wrap: wrap; }
-
-.chip {
-  font-family: var(--font-head);
-  font-weight: 900;
-  text-transform: uppercase;
-  font-size: 0.56rem;
-  letter-spacing: 0.08em;
-  color: var(--card);
-  background: var(--scene);
-  padding: 0.12rem 0.4rem;
+@media (max-width: 560px) {
+  .row { grid-template-columns: 1fr; gap: 0.3rem; }
 }
 </style>

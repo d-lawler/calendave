@@ -1,32 +1,31 @@
 <template>
   <main>
     <div class="controls">
-      <div class="scene-filters">
+      <div class="line">
         <button
           v-for="s in scenes"
           :key="s.id"
-          class="filter"
+          class="pill"
           :class="[`scene-${s.id}`, { on: activeScenes.includes(s.id) }]"
           @click="toggleScene(s.id)"
         >
-          {{ s.label }}
+          <i class="dot" />{{ s.label }}
+        </button>
+        <span class="spacer" />
+        <button class="dice" title="pick something at random" @click="rollDice">
+          surprise me ↷
         </button>
       </div>
 
-      <div class="row-two">
-        <div class="time-filters">
-          <button
-            v-for="w in windows"
-            :key="w.id"
-            class="filter small"
-            :class="{ on: activeWindow === w.id }"
-            @click="activeWindow = w.id"
-          >
-            {{ w.label }}
-          </button>
-        </div>
-        <button class="dice" title="pick something at random" @click="rollDice">
-          🎲 surprise me
+      <div class="line">
+        <button
+          v-for="w in windows"
+          :key="w.id"
+          class="pill quiet"
+          :class="{ on: activeWindow === w.id }"
+          @click="activeWindow = w.id"
+        >
+          {{ w.label }}
         </button>
       </div>
 
@@ -34,26 +33,25 @@
         v-model="query"
         type="search"
         class="search"
-        placeholder="search titles, venues, tags… (try '35mm' or 'noise')"
+        placeholder="search — try '35mm', 'noise', 'free'"
       >
     </div>
 
-    <p class="count" aria-live="polite">
-      {{ filtered.length }} thing{{ filtered.length === 1 ? '' : 's' }} worth leaving the house for
-    </p>
+    <template v-for="group in grouped" :key="group.month">
+      <p class="label month">{{ group.month }}</p>
+      <div>
+        <EventCard
+          v-for="e in group.events"
+          :key="e.id"
+          :event="e"
+          :now="now"
+          :class="{ spotlight: diceId === e.id }"
+        />
+      </div>
+    </template>
 
-    <TransitionGroup name="cards" tag="div" class="grid">
-      <EventCard
-        v-for="e in filtered"
-        :key="e.id"
-        :event="e"
-        :now="now"
-        :class="{ spotlight: diceId === e.id }"
-      />
-    </TransitionGroup>
-
-    <p v-if="!filtered.length" class="empty">
-      nothing matches — even london has limits. clear a filter or two.
+    <p v-if="!grouped.length" class="empty">
+      nothing matches — even london has limits.
     </p>
   </main>
 </template>
@@ -70,10 +68,13 @@ const scenes = [
 
 const windows = [
   { id: 'all', label: 'everything' },
-  { id: 'week', label: 'next 7 days' },
-  { id: 'fortnight', label: 'next 2 weeks' },
-  { id: 'month', label: 'next 30 days' }
+  { id: 'week', label: '7 days' },
+  { id: 'fortnight', label: '2 weeks' },
+  { id: 'month', label: '30 days' }
 ]
+
+const MONTH_NAMES = ['January', 'February', 'March', 'April', 'May', 'June',
+  'July', 'August', 'September', 'October', 'November', 'December']
 
 const activeScenes = ref([])
 const activeWindow = ref('all')
@@ -119,11 +120,25 @@ const filtered = computed(() => {
   const q = query.value.trim().toLowerCase()
   if (q) {
     list = list.filter(e =>
-      [e.title, e.venue, e.blurb, ...e.tags].join(' ').toLowerCase().includes(q)
+      [e.title, e.venue, e.blurb, e.price || '', ...e.tags].join(' ').toLowerCase().includes(q)
     )
   }
 
   return list
+})
+
+const grouped = computed(() => {
+  const todayISO = now.value ? now.value.toISOString().slice(0, 10) : null
+  const key = (e) => (todayISO && e.date < todayISO) ? (e.endDate || todayISO) : e.date
+  const groups = []
+  for (const e of filtered.value) {
+    const k = key(e)
+    const month = MONTH_NAMES[Number(k.slice(5, 7)) - 1]
+    const last = groups[groups.length - 1]
+    if (last && last.month === month) last.events.push(e)
+    else groups.push({ month, events: [e] })
+  }
+  return groups
 })
 
 function rollDice () {
@@ -141,103 +156,90 @@ function rollDice () {
 .controls {
   display: flex;
   flex-direction: column;
-  gap: 0.7rem;
-  margin-bottom: 1.2rem;
+  gap: 0.8rem;
+  margin-bottom: 2.2rem;
 }
 
-.scene-filters, .time-filters {
+.line {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.5rem;
-}
-
-.row-two {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-  justify-content: space-between;
+  gap: 0.4rem 1.1rem;
   align-items: center;
 }
 
-.filter {
-  font-family: var(--font-head);
-  font-weight: 700;
-  text-transform: uppercase;
-  font-size: 0.78rem;
-  border: var(--edge);
-  background: var(--card);
-  padding: 0.4rem 0.95rem;
-  box-shadow: 3px 3px 0 var(--ink);
-  transition: transform 0.1s, box-shadow 0.1s, background 0.1s;
+.spacer { flex-grow: 1; }
+
+.pill {
+  font-size: 0.8rem;
+  color: var(--mut);
+  display: inline-flex;
+  align-items: center;
+  padding: 0.1rem 0;
 }
 
-.filter:hover { transform: translate(-1px, -1px); box-shadow: 4px 4px 0 var(--ink); }
+.pill:hover { color: var(--ink); }
 
-.filter.on {
-  background: var(--scene, var(--ink));
-  color: var(--card);
-  transform: translate(2px, 2px);
-  box-shadow: 1px 1px 0 var(--ink);
+.pill .dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--scene);
+  display: inline-block;
+  margin-right: 0.4rem;
+  opacity: 0.35;
+  transition: opacity 0.12s;
 }
 
-.filter.small {
-  font-size: 0.65rem;
-  padding: 0.3rem 0.7rem;
+.pill.on {
+  color: var(--ink);
+  text-decoration: underline;
+  text-underline-offset: 5px;
 }
 
-.filter.small.on { background: var(--ink); }
+.pill.on .dot { opacity: 1; }
+
+.pill.quiet { font-size: 0.72rem; }
 
 .dice {
-  font-family: var(--font-head);
-  font-weight: 900;
-  text-transform: uppercase;
-  font-size: 0.72rem;
-  border: var(--edge);
-  background: var(--ink);
-  color: var(--paper);
-  padding: 0.4rem 0.9rem;
-  box-shadow: 3px 3px 0 rgba(26, 23, 20, 0.35);
+  font-size: 0.78rem;
+  color: var(--mut);
 }
 
-.dice:hover { transform: rotate(-2deg) scale(1.04); }
+.dice:hover { color: var(--ink); }
 
 .search {
-  font-family: var(--font-mono);
-  font-size: 0.8rem;
-  border: var(--edge);
-  background: var(--card);
-  padding: 0.55rem 0.8rem;
+  font-family: var(--font);
+  font-size: 0.85rem;
+  border: none;
+  border-bottom: 1px solid var(--rule);
+  background: transparent;
+  padding: 0.45rem 0;
   width: 100%;
-  box-shadow: inset 2px 2px 0 rgba(26, 23, 20, 0.08);
+  color: var(--ink);
 }
 
-.search:focus { outline: 3px solid var(--ink); outline-offset: -1px; }
+.search::placeholder { color: var(--mut); opacity: 0.7; }
 
-.count {
-  font-size: 0.7rem;
-  font-style: italic;
-  color: var(--ink-soft);
-  margin: 0 0 1rem;
+.search:focus {
+  outline: none;
+  border-bottom-color: var(--ink);
 }
 
-.grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(285px, 1fr));
-  gap: 1.1rem;
+.month {
+  margin: 2.2rem 0 0.4rem;
 }
 
-.cards-enter-active, .cards-leave-active { transition: all 0.18s ease; }
-.cards-enter-from, .cards-leave-to { opacity: 0; transform: translateY(6px); }
-.cards-leave-active { position: absolute; visibility: hidden; }
+.month:first-of-type { margin-top: 0; }
 
 .spotlight {
-  outline: 4px dashed var(--ink);
-  outline-offset: 4px;
+  background: var(--hover);
+  outline: 1px dashed var(--mut);
+  outline-offset: -1px;
 }
 
 .empty {
-  margin-top: 2.5rem;
-  font-style: italic;
-  color: var(--ink-soft);
+  margin-top: 3rem;
+  font-size: 0.85rem;
+  color: var(--mut);
 }
 </style>

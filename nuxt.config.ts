@@ -4,7 +4,7 @@ export default defineNuxtConfig({
   css: ['~/assets/css/main.css'],
   app: {
     head: {
-      title: 'DAVECAL — leftfield London',
+      title: 'Calendave — leftfield London',
       htmlAttrs: { lang: 'en' },
       meta: [
         { charset: 'utf-8' },
@@ -19,7 +19,7 @@ export default defineNuxtConfig({
         { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' },
         {
           rel: 'stylesheet',
-          href: 'https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;700;900&family=Space+Mono:ital,wght@0,400;0,700;1,400&display=swap'
+          href: 'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Mono&display=swap'
         }
       ]
     }
