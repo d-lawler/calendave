@@ -4,7 +4,7 @@ export default defineNuxtConfig({
   css: ['~/assets/css/main.css'],
   app: {
     head: {
-      title: 'Calendave — leftfield London',
+      title: 'Calendave',
       htmlAttrs: { lang: 'en' },
       meta: [
         { charset: 'utf-8' },

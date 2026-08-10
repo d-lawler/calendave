@@ -33,7 +33,7 @@
         v-model="query"
         type="search"
         class="search"
-        placeholder="search — try '35mm', 'noise', 'free'"
+        placeholder="search: try '35mm', 'noise', 'free'"
       >
     </div>
 
@@ -51,7 +51,7 @@
     </template>
 
     <p v-if="!grouped.length" class="empty">
-      nothing matches — even london has limits.
+      nothing matches. even london has limits.
     </p>
   </main>
 </template>

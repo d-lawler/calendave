@@ -1,7 +1,7 @@
 <template>
   <main>
     <p class="intro">
-      the evergreen backbone — where to look when the listings run dry.
+      the evergreen backbone, where to look when the listings run dry.
     </p>
 
     <a

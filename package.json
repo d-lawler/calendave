@@ -2,7 +2,7 @@
   "name": "calendave",
   "private": true,
   "version": "0.1.0",
-  "description": "Personal radar for leftfield London — music, cinema, art, and odd happenings",
+  "description": "Personal radar for London music, cinema, art, and odd happenings",
   "scripts": {
     "dev": "nuxt dev",
     "build": "nuxt build",

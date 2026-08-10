@@ -1,10 +1,10 @@
 # Calendave
 
-A personal radar for leftfield London — experimental music, repertory cinema, art, and odd happenings at places like Cafe OTO, the ICA, and the Prince Charles Cinema.
+A personal radar for experimental music, repertory cinema, art, and odd happenings in London, at places like Cafe OTO, the ICA, and the Prince Charles Cinema.
 
 ## Stack
 
-Nuxt 3, statically generated. No backend, no tracking, no algorithm — just hand-curated JSON.
+Nuxt 3, statically generated. No backend, no tracking, no algorithm, just hand-curated JSON.
 
 ## Running it
 
@@ -24,10 +24,10 @@ npm run generate   # static build into dist/
 
 All content lives in two files:
 
-- `data/events.json` — the curated events. Each entry: `id`, `title`, `venue`, `scene` (`music` | `cinema` | `art` | `odd`), `date` / `endDate` (ISO), `time`, `url`, `blurb`, `tags`, `price`.
-- `data/venues.json` — the evergreen venue directory.
+- `data/events.json`: the curated events. Each entry: `id`, `title`, `venue`, `scene` (`music` | `cinema` | `art` | `odd`), `date` / `endDate` (ISO), `time`, `url`, `blurb`, `tags`, `price`.
+- `data/venues.json`: the evergreen venue directory.
 
-Past events hide themselves automatically (anything whose `endDate`/`date` is behind today never renders), so the site degrades gracefully between refreshes — but a periodic top-up keeps it alive. The workflow: ask Claude to re-research current listings and rewrite `events.json`, bump `verifiedDate` in `app.vue`, commit, push — Netlify redeploys.
+Past events hide themselves automatically (anything whose `endDate`/`date` is behind today never renders), so the site degrades gracefully between refreshes, but a periodic top-up keeps it alive. The workflow: ask Claude to re-research current listings and rewrite `events.json`, then commit and push. Netlify redeploys.
 
 ## Ideas for later
 
