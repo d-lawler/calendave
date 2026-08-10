@@ -9,17 +9,8 @@
     </header>
 
     <NuxtPage />
-
-    <footer class="footer">
-      <p>hand-curated · listings verified {{ verifiedDate }} · check the venue before setting out</p>
-    </footer>
   </div>
 </template>
-
-<script setup>
-// Bump this whenever the events data is refreshed
-const verifiedDate = 'Aug 2026'
-</script>
 
 <style scoped>
 .shell {
@@ -60,14 +51,4 @@ const verifiedDate = 'Aug 2026'
   text-decoration: underline;
   text-underline-offset: 5px;
 }
-
-.footer {
-  margin-top: 5rem;
-  padding-top: 1rem;
-  border-top: 1px solid var(--rule);
-  font-size: 0.72rem;
-  color: var(--mut);
-}
-
-.footer p { margin: 0; }
 </style>
