@@ -22,6 +22,12 @@
     </header>
 
     <NuxtPage />
+
+    <footer class="footer">
+      <a href="https://github.com/d-lawler/calendave" target="_blank" rel="noopener">View on GitHub</a>
+      <a href="https://davidlawler.ie" target="_blank" rel="noopener">davidlawler.ie</a>
+      <a href="https://r-a-d.website" target="_blank" rel="noopener">r-a-d.website</a>
+    </footer>
   </div>
 </template>
 
@@ -92,6 +98,24 @@ function toggleScene (id) {
 .nav a:hover { color: var(--ink); }
 
 .nav a.active { color: var(--ink); }
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 4rem;
+  padding-top: 0.9rem;
+  border-top: 1px solid var(--rule);
+}
+
+.footer a {
+  font-size: 0.75rem;
+  color: var(--mut);
+  text-decoration: none;
+  transition: color 0.12s;
+}
+
+.footer a:hover { color: var(--ink); }
 
 .filters {
   margin-left: auto;
