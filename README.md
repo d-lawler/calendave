@@ -2,6 +2,8 @@
 
 A personal radar for music, cinema, art, at places like Cafe OTO, the ICA, and the Prince Charles Cinema.
 
+![Calendave](docs/screenshot.png)
+
 ## Stack
 
 Nuxt 3, statically generated. No backend, no tracking, no algorithm, just JSON.
