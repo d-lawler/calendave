@@ -103,8 +103,7 @@ function toggleScene (id) {
 .pill {
   font-size: 0.8rem;
   color: var(--mut);
-  display: inline-flex;
-  align-items: center;
+  display: inline-block; /* keeps the text baseline in line with the tabs */
   transition: color 0.12s;
 }
 
@@ -117,6 +116,7 @@ function toggleScene (id) {
   border-radius: 50%;
   background: var(--scene);
   display: inline-block;
+  vertical-align: middle;
   margin-right: 0.4rem;
   opacity: 0.35;
   transition: opacity 0.12s;
