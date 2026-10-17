@@ -39,8 +39,7 @@ import venues from '~/data/venues.json'
   display: grid;
   grid-template-columns: 8.5rem 1fr;
   gap: 1.25rem;
-  padding: 0.85rem 0.5rem;
-  margin: 0 -0.5rem;
+  padding: 0.85rem 0;
   text-decoration: none;
   border-bottom: 1px solid var(--rule);
   transition: background 0.12s;
@@ -88,7 +87,7 @@ import venues from '~/data/venues.json'
   line-height: 1.55;
 }
 
-@media (max-width: 560px) {
+@media (max-width: 640px) {
   .row { grid-template-columns: 1fr; gap: 0.3rem; }
 }
 </style>

@@ -1,10 +1,10 @@
 # Calendave
 
-A personal radar for experimental music, repertory cinema, art, and odd happenings in London, at places like Cafe OTO, the ICA, and the Prince Charles Cinema.
+A personal radar for music, cinema, art, at places like Cafe OTO, the ICA, and the Prince Charles Cinema.
 
 ## Stack
 
-Nuxt 3, statically generated. No backend, no tracking, no algorithm, just hand-curated JSON.
+Nuxt 3, statically generated. No backend, no tracking, no algorithm, just JSON.
 
 ## Running it
 
@@ -27,10 +27,14 @@ All content lives in two files:
 - `data/events.json`: the curated events. Each entry: `id`, `title`, `venue`, `scene` (`music` | `cinema` | `art` | `odd`), `date` / `endDate` (ISO), `time`, `url`, `blurb`, `tags`, `price`.
 - `data/venues.json`: the evergreen venue directory.
 
-Past events hide themselves automatically (anything whose `endDate`/`date` is behind today never renders), so the site degrades gracefully between refreshes, but a periodic top-up keeps it alive. The workflow: ask Claude to re-research current listings and rewrite `events.json`, then commit and push. Netlify redeploys.
+Past events hide themselves automatically (anything whose `endDate`/`date` is behind today never renders), so the site degrades gracefully between refreshes, but a periodic top-up keeps it alive. This is automated: `.github/workflows/refresh-listings.yml` runs Monday, Wednesday and Friday mornings (or by hand from the Actions tab). Claude follows `.github/refresh-listings.md` to prune past events and research new ones, the workflow checks the data and the build, then commits and Netlify redeploys. It needs a `CLAUDE_CODE_OAUTH_TOKEN` repo secret (create one with `claude setup-token`).
 
 ## Ideas for later
 
 - Per-venue scrapers (Cafe OTO paginates `/events/?page=N`; The Cinema Museum runs WordPress + The Events Calendar, so `/events/?ical=1` may exist; several venues book through DICE) feeding `events.json` at build time on a Netlify scheduled build.
 - An `.ics` export so picks land in a real calendar.
 - A "going" shortlist persisted in localStorage.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
