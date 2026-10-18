@@ -38,7 +38,7 @@ const scenes = [
   { id: 'music', label: 'music' },
   { id: 'cinema', label: 'cinema' },
   { id: 'art', label: 'art' },
-  { id: 'odd', label: 'words' }
+  { id: 'words', label: 'words' }
 ]
 
 // Shared with pages/index.vue, which does the filtering.

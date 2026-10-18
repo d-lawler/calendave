@@ -47,7 +47,7 @@ jobs:
           for e in ev:
               for k in ['id', 'title', 'venue', 'scene', 'date', 'url', 'blurb', 'tags']:
                   assert e.get(k) not in (None, ''), f"{e.get('id')}: missing {k}"
-              assert e['scene'] in ('music', 'cinema', 'art', 'odd'), e['id']
+              assert e['scene'] in ('music', 'cinema', 'art', 'words'), e['id']
               datetime.date.fromisoformat(e['date'])
               if e.get('endDate'):
                   datetime.date.fromisoformat(e['endDate'])

@@ -41,7 +41,7 @@ From today to roughly 10 weeks ahead, weighted towards the next 4 weeks. Exhibit
 }
 ```
 
-- `scene` is one of `music`, `cinema`, `art`, `odd` (`odd` is shown as "words": talks, readings, live art, fairs, strange one-offs).
+- `scene` is one of `music`, `cinema`, `art`, `words` (talks, readings, live art, fairs, strange one-offs).
 - `time` is `HH:MM` or null; `price` is a short string like `£12`, `free`, or null.
 - Blurbs: one or two short sentences, knowing and dry, specific about what the thing actually is. Never use em dashes or en dashes anywhere; use commas, colons or full stops.
 - 2 to 4 lowercase kebab-case tags.

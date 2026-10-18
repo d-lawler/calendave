@@ -7,7 +7,7 @@
   --music: #c2410c;
   --cinema: #1d4ed8;
   --art: #be185d;
-  --odd: #15803d;
+  --words: #15803d;
   --font: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   --mono: 'Space Mono', monospace;
 }
@@ -33,7 +33,7 @@ a { color: inherit; }
 .scene-music { --scene: var(--music); }
 .scene-cinema { --scene: var(--cinema); }
 .scene-art { --scene: var(--art); }
-.scene-odd { --scene: var(--odd); }
+.scene-words { --scene: var(--words); }
 
 button {
   font-family: var(--font);
