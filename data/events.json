@@ -1,23 +1,5 @@
 [
   {
-    "id": "volcano-auto-italia",
-    "title": "Del LaGrace Volcano: Sensual / Mutual",
-    "venue": "Auto Italia",
-    "scene": "art",
-    "date": "2026-07-17",
-    "endDate": "2026-10-25",
-    "time": null,
-    "url": "https://www.artrabbit.com/events/sensual-mutual",
-    "blurb": "Unseen 70s and 80s work from a leather dyke bar, a rent-striking artist hotel and a women's land commune. Tender rather than nostalgic, and closing next weekend.",
-    "tags": [
-      "exhibition",
-      "photography",
-      "queer",
-      "last-chance"
-    ],
-    "price": null
-  },
-  {
     "id": "rio-forever-50",
     "title": "Rio Forever: 50 Years of the Rio",
     "venue": "Rio Cinema",
@@ -31,23 +13,6 @@
       "season",
       "anniversary",
       "35mm"
-    ],
-    "price": null
-  },
-  {
-    "id": "kaiju-barbican",
-    "title": "All Kaiju Attack: All Stars!",
-    "venue": "Barbican Cinema",
-    "scene": "cinema",
-    "date": "2026-08-29",
-    "endDate": "2026-10-20",
-    "time": null,
-    "url": "https://www.barbican.org.uk/whats-on/cinema",
-    "blurb": "Two months of monster mayhem: Godzilla, Ghidorah and friends stomping through a properly curated kaiju season. City-crushing on a big screen, as intended.",
-    "tags": [
-      "season",
-      "kaiju",
-      "japan"
     ],
     "price": null
   },
@@ -275,22 +240,6 @@
     "price": "free"
   },
   {
-    "id": "lff-70",
-    "title": "70th BFI London Film Festival",
-    "venue": "BFI Southbank",
-    "scene": "cinema",
-    "date": "2026-10-07",
-    "endDate": "2026-10-18",
-    "time": null,
-    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp",
-    "blurb": "The big one turns 70. The Treasures strand is where rep heads should aim: restorations and archive premieres galore.",
-    "tags": [
-      "festival",
-      "restoration"
-    ],
-    "price": null
-  },
-  {
     "id": "vicuna-whitechapel",
     "title": "Cecilia Vicuña: Living Threads",
     "venue": "Whitechapel Gallery",
@@ -393,91 +342,6 @@
     "price": null
   },
   {
-    "id": "divine-noise-all-dayer-new-river-studios",
-    "title": "Divine Noise All-Dayer #2",
-    "venue": "New River Studios",
-    "scene": "music",
-    "date": "2026-10-17",
-    "endDate": null,
-    "time": "16:00",
-    "url": "https://newriverstudios.com/event/divine-noise-all-dayer-2/",
-    "blurb": "Seven acts of scuzz, skronk and squall from Snorkel, Meat Strap, Drum Tower, Brabble and friends in the Manor House DIY space.",
-    "tags": [
-      "noise",
-      "diy",
-      "all-dayer"
-    ],
-    "price": null
-  },
-  {
-    "id": "the87press-mushaira-cafe-oto",
-    "title": "the87press present Mushaira",
-    "venue": "Cafe OTO",
-    "scene": "words",
-    "date": "2026-10-17",
-    "endDate": null,
-    "time": "19:30",
-    "url": "https://www.cafeoto.co.uk/events/the87press-present-mushaira-oct-26/",
-    "blurb": "A poetry gathering in the Urdu mushaira tradition, with CAConrad and Roger Robinson on the bill and a Chef Yogi kitchen keeping everyone fed. Tonight, so move fast.",
-    "tags": [
-      "poetry",
-      "readings",
-      "small-press"
-    ],
-    "price": "£12"
-  },
-  {
-    "id": "if-music-left-turn-carpet-shop",
-    "title": "If Music presents Left Turn",
-    "venue": "The Carpet Shop",
-    "scene": "music",
-    "date": "2026-10-18",
-    "endDate": null,
-    "time": "15:00",
-    "url": "https://app.discotech.me/events/38279754-if-music-presents-left-turn-at-the-carpet-shop",
-    "blurb": "Sunday afternoon jungle and drum and bass from the If Music crew with Suburban Architecture on decks and LyricL on the mic. Home by ten, ears ringing.",
-    "tags": [
-      "club",
-      "jungle",
-      "daytime"
-    ],
-    "price": null
-  },
-  {
-    "id": "ye-gods-waiting-room",
-    "title": "Library of the Occult: Ye Gods (Antoni Maiovvi)",
-    "venue": "The Waiting Room",
-    "scene": "music",
-    "date": "2026-10-18",
-    "endDate": null,
-    "time": "19:30",
-    "url": "https://wegottickets.com/f/25173",
-    "blurb": "Giallo-synth auteur Antoni Maiovvi's Ye Gods project headlines a Library of the Occult label night under the Three Crowns, kosmische for the candle-lit set.",
-    "tags": [
-      "synth",
-      "kosmische",
-      "occult"
-    ],
-    "price": null
-  },
-  {
-    "id": "hart-of-london-16mm-cinema-museum",
-    "title": "The Hart of London (1970) on 16mm",
-    "venue": "The Cinema Museum",
-    "scene": "cinema",
-    "date": "2026-10-18",
-    "endDate": null,
-    "time": "16:30",
-    "url": "https://cinemamuseum.org.uk/scheduled/the-hart-of-london-1970-on-16mm/",
-    "blurb": "Jack Chambers' haunted Canadian found footage landmark, on 16mm where it belongs.",
-    "tags": [
-      "16mm",
-      "experimental",
-      "archive"
-    ],
-    "price": "£13"
-  },
-  {
     "id": "the-shining-uk-version-35mm-pcc",
     "title": "The Shining [UK Version] on 35mm",
     "venue": "Prince Charles Cinema",
@@ -493,40 +357,6 @@
       "kubrick"
     ],
     "price": "£11.50"
-  },
-  {
-    "id": "tg50-throbbing-gristle-ica",
-    "title": "Throbbing Gristle: TG50",
-    "venue": "ICA",
-    "scene": "music",
-    "date": "2026-10-18",
-    "endDate": null,
-    "time": "12:00",
-    "url": "https://www.ica.art/live/tg50",
-    "blurb": "Fifty years after Prostitution scandalised the ICA, a free day of TG on the spatial sound system, plus screenings of Heathen Earth and Kezar Pavilion and Chris Carter and Cosey Fanni Tutti in conversation (ticketed separately).",
-    "tags": [
-      "industrial",
-      "anniversary",
-      "free"
-    ],
-    "price": "free"
-  },
-  {
-    "id": "deep-listening-rrose-ormside-projects",
-    "title": "deep:listening with Rrose, Akeim Toussaint Buck, Xin",
-    "venue": "Ormside Projects",
-    "scene": "music",
-    "date": "2026-10-18",
-    "endDate": null,
-    "time": "16:00",
-    "url": "https://app.discotech.me/events/38297809-deeplistening-with-rrose-akeim-toussaint-buck-xin-at-ormside-projects",
-    "blurb": "A sober dancefloor experiment: a group listen to Éliane Radigue's Occam I, movement by Akeim Toussaint Buck scored by Xin, then Rrose's hypnotic, drone-minded techno. Tea bar, no chat during the pieces.",
-    "tags": [
-      "deep-listening",
-      "techno",
-      "drone"
-    ],
-    "price": null
   },
   {
     "id": "billy-wilder-season-bfi-southbank",
@@ -546,107 +376,6 @@
     "price": null
   },
   {
-    "id": "death-masks-nick-reynolds-last-tuesday-society",
-    "title": "Death Masks: The Final Portrait with Nick Reynolds",
-    "venue": "The Last Tuesday Society",
-    "scene": "words",
-    "date": "2026-10-19",
-    "endDate": null,
-    "time": "18:30",
-    "url": "https://thelasttuesdaysociety.org/exhibition/death-masks-the-final-portrait-with-nick-reynolds-live/",
-    "blurb": "Sculptor Nick Reynolds, son of Great Train Robber Bruce, on casting the faces of the dead across cultures and centuries. Exactly the right room on Mare Street for it.",
-    "tags": [
-      "talk",
-      "death",
-      "curiosities"
-    ],
-    "price": null
-  },
-  {
-    "id": "feedback-moves-duos-cafe-oto",
-    "title": "Feedback Moves: Niloofar Asghary / Conal Blake + Rory Salter / Paul Abbott + Phil Julian / Zheng Hao",
-    "venue": "Cafe OTO",
-    "scene": "music",
-    "date": "2026-10-19",
-    "endDate": null,
-    "time": "19:30",
-    "url": "https://www.cafeoto.co.uk/events/feedback-moves-xcrswx-niloofar-asghary-conal-blake/",
-    "blurb": "Three first-time or near-first-time duos from Conal Blake's label: no-input mixer feedback, unstable modular systems and XT's drummer meeting a London sound artist. Free for members, which is the right price for a Monday of glorious unknowns.",
-    "tags": [
-      "electronics",
-      "improv",
-      "noise"
-    ],
-    "price": "£12"
-  },
-  {
-    "id": "k8-hardy-positions-launch-ica",
-    "title": "Book Launch + Screening + Q&A: Positions by K8 Hardy",
-    "venue": "ICA",
-    "scene": "words",
-    "date": "2026-10-20",
-    "endDate": null,
-    "time": "18:30",
-    "url": "https://www.ica.art/talks/book-launch-screening-q-a-positions-by-k8-hardy",
-    "blurb": "MACK launches K8 Hardy's Position Series photobook with a screening of Outfitumentary, a decade of her getting dressed on camera. Nina Manandhar does the Q&A.",
-    "tags": [
-      "book-launch",
-      "photography",
-      "film"
-    ],
-    "price": null
-  },
-  {
-    "id": "parker-swell-tokar-kugel-cafe-oto",
-    "title": "Evan Parker / Steve Swell / Mark Tokar / Klaus Kugel",
-    "venue": "Cafe OTO",
-    "scene": "music",
-    "date": "2026-10-20",
-    "endDate": null,
-    "time": "19:30",
-    "url": "https://www.cafeoto.co.uk/events/parker-swell-tokar-kugel/",
-    "blurb": "Parker's tenor against Steve Swell's trombone over a Ukrainian/German rhythm section that has been grinding together for years. Free jazz as conversation, not spectacle.",
-    "tags": [
-      "free-jazz",
-      "improv"
-    ],
-    "price": "£17"
-  },
-  {
-    "id": "faust-live-score-garden-cinema",
-    "title": "Faust: 100th Anniversary with Live Score",
-    "venue": "The Garden Cinema",
-    "scene": "cinema",
-    "date": "2026-10-20",
-    "endDate": null,
-    "time": "18:00",
-    "url": "https://www.thegardencinema.co.uk/film/faust-100th-anniversary-with-live-score/",
-    "blurb": "Murnau's Faust turns 100, with a live score by mutterichbindoom for SECT Silent Club.",
-    "tags": [
-      "live-score",
-      "silent",
-      "archive"
-    ],
-    "price": null
-  },
-  {
-    "id": "bar-trash-250-destroy-all-monsters-genesis-cinema",
-    "title": "Bar Trash 250: Destroy All Monsters",
-    "venue": "Genesis Cinema",
-    "scene": "cinema",
-    "date": "2026-10-21",
-    "endDate": null,
-    "time": "20:30",
-    "url": "https://www.genesiscinema.co.uk/event/115420",
-    "blurb": "Bar Trash hits its 250th screening with Honda's kaiju free for all. Themed drinks, intermissions, prizes and cake.",
-    "tags": [
-      "cult",
-      "kaiju",
-      "bar-trash"
-    ],
-    "price": "£3.50"
-  },
-  {
     "id": "william-greaves-season-barbican",
     "title": "I Am Furious Black: The Films of William Greaves",
     "venue": "Barbican Cinema",
@@ -661,93 +390,6 @@
       "archive",
       "documentary",
       "35mm"
-    ],
-    "price": null
-  },
-  {
-    "id": "kennington-bioscope-arrival-from-darkness-cinema-museum",
-    "title": "Kennington Bioscope: The Arrival from the Darkness (1921)",
-    "venue": "The Cinema Museum",
-    "scene": "cinema",
-    "date": "2026-10-21",
-    "endDate": null,
-    "time": "19:30",
-    "url": "https://cinemamuseum.org.uk/scheduled/the-arrival-from-the-darkness-prichozi-z-temnot-1921/",
-    "blurb": "A Czech silent horror rarity, the Bioscope's Halloween offering in the old Lambeth workhouse.",
-    "tags": [
-      "silent",
-      "archive",
-      "horror",
-      "kennington-bioscope"
-    ],
-    "price": "£8 to £18"
-  },
-  {
-    "id": "nebbia-downes-lisle-exhaust-cafe-oto",
-    "title": "Nebbia / Downes / Lisle: Exhaust",
-    "venue": "Cafe OTO",
-    "scene": "music",
-    "date": "2026-10-21",
-    "endDate": null,
-    "time": "19:30",
-    "url": "https://www.cafeoto.co.uk/events/nebbia-downes-lisle-exhaust/",
-    "blurb": "Camila Nebbia's sax, Kit Downes' piano and Andrew Lisle's knotty drumming, launching their Intakt record with fully spontaneous trio playing.",
-    "tags": [
-      "improv",
-      "free-jazz",
-      "album-launch"
-    ],
-    "price": "£18"
-  },
-  {
-    "id": "possession-north-american-cut-garden-cinema",
-    "title": "Video Bazaar presents: Possession (North American Cut)",
-    "venue": "The Garden Cinema",
-    "scene": "cinema",
-    "date": "2026-10-21",
-    "endDate": null,
-    "time": "20:30",
-    "url": "https://www.thegardencinema.co.uk/film/video-bazaar-presents-possession-north-american-cut/",
-    "blurb": "The butchered 81 minute US theatrical cut of Zulawski's masterpiece, closing the Garden's retrospective. A curio for completists.",
-    "tags": [
-      "cult",
-      "horror",
-      "rare"
-    ],
-    "price": null
-  },
-  {
-    "id": "abstract-concrete-iklectik",
-    "title": "Abstract Concrete + Borough Council + NPA + PopStar",
-    "venue": "IKLECTIK",
-    "scene": "music",
-    "date": "2026-10-22",
-    "endDate": null,
-    "time": "19:00",
-    "url": "https://songkick.com/concerts/43440429-abstract-concrete-at-iklectik",
-    "blurb": "Charles Hayward (This Heat) and his band of agitated art-rock lifers at IKLECTIK's new Peckham Levels home. Drums as weather system.",
-    "tags": [
-      "art-rock",
-      "post-punk",
-      "experimental"
-    ],
-    "price": "£11.30"
-  },
-  {
-    "id": "haxan-live-score-pcc",
-    "title": "Haxan with Live Score",
-    "venue": "Prince Charles Cinema",
-    "scene": "cinema",
-    "date": "2026-10-22",
-    "endDate": null,
-    "time": "18:00",
-    "url": "https://princecharlescinema.com/film/31616917/haxan-with-live-score",
-    "blurb": "Benjamin Christensen's 1922 witchcraft essay film, part documentary, part fever dream, with a live score from Hugo Max.",
-    "tags": [
-      "live-score",
-      "silent",
-      "horror",
-      "archive"
     ],
     "price": null
   },
@@ -769,231 +411,6 @@
     "price": null
   },
   {
-    "id": "club-romantico-dengue-dengue-dengue-venue-mot",
-    "title": "Club Romantico x MOT: Dengue Dengue Dengue, Florentino & Pochola",
-    "venue": "Venue MOT",
-    "scene": "music",
-    "date": "2026-10-23",
-    "endDate": null,
-    "time": "23:00",
-    "url": "https://app.discotech.me/events/38267179-club-romantico-x-mot-dengue-dengue-dengue-florentino-and-pochola-at-mot",
-    "blurb": "Lima's masked duo play their psychedelic cumbia-meets-bass live, with Florentino's reggaeton-tinged club edits to follow. Latin club music at its most mutant.",
-    "tags": [
-      "club",
-      "cumbia",
-      "live"
-    ],
-    "price": null
-  },
-  {
-    "id": "pulse-school-of-the-damned-ica",
-    "title": "PULSE: School of the Damned",
-    "venue": "ICA",
-    "scene": "words",
-    "date": "2026-10-23",
-    "endDate": "2026-10-25",
-    "time": "19:30",
-    "url": "https://www.ica.art/talks/pulse-school-of-the-damned",
-    "blurb": "The peer-led alt art school takes the Upper Gallery for performance, sound and moving image on Stuart Hall's idea of conjuncture. Opening night features an artist self-tattooing, with audience members on the foot pedal.",
-    "tags": [
-      "live-art",
-      "performance",
-      "art-school"
-    ],
-    "price": null
-  },
-  {
-    "id": "classic-horror-marathon-pcc",
-    "title": "Classic Horror Marathon",
-    "venue": "Prince Charles Cinema",
-    "scene": "cinema",
-    "date": "2026-10-24",
-    "endDate": null,
-    "time": "23:30",
-    "url": "https://princecharlescinema.com/film/31616767/classic-horror-marathon",
-    "blurb": "The Thing, The Exorcist, The Shining, Elm Street and Texas Chain Saw back to back on 35mm and DCP, finishing around 8.38am. Sold out at time of writing; watch for returns.",
-    "tags": [
-      "all-nighter",
-      "marathon",
-      "horror",
-      "35mm",
-      "sold-out"
-    ],
-    "price": "from £20"
-  },
-  {
-    "id": "hannah-peel-beibei-wang-shards-barbican",
-    "title": "Hannah Peel & Beibei Wang + Underland performed by Shards",
-    "venue": "Barbican",
-    "scene": "music",
-    "date": "2026-10-24",
-    "endDate": null,
-    "time": "19:30",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/hannah-peel-beibei-wang-underland-performed-by-shards",
-    "blurb": "Peel's analogue synths meet Beibei Wang's percussion, then the vocal collective Shards premiere Underland. Part of the Always, Already There weekend.",
-    "tags": [
-      "electronics",
-      "percussion",
-      "choral"
-    ],
-    "price": null
-  },
-  {
-    "id": "iklectika-5th-edition-iklectik",
-    "title": "IKLECTIKA 5th Edition",
-    "venue": "IKLECTIK",
-    "scene": "music",
-    "date": "2026-10-24",
-    "endDate": null,
-    "time": "12:00",
-    "url": "https://iklectik.org/",
-    "blurb": "IKLECTIK's annual noon-till-late gathering of experimental sound, now in Peckham. Expect a long day of electronics, improv and things that are hard to categorise.",
-    "tags": [
-      "festival",
-      "experimental",
-      "all-dayer"
-    ],
-    "price": "£10"
-  },
-  {
-    "id": "loefah-venue-mot",
-    "title": "Loefah",
-    "venue": "Venue MOT",
-    "scene": "music",
-    "date": "2026-10-24",
-    "endDate": null,
-    "time": "22:00",
-    "url": "https://ra.co/events/2490884",
-    "blurb": "The DMZ co-founder and Swamp 81 boss, the man who kept dubstep's sub-bass sparse and menacing, with GEM (UK) in support. Old south London lore in a former MOT garage.",
-    "tags": [
-      "club",
-      "dubstep",
-      "bass"
-    ],
-    "price": "£10-£20"
-  },
-  {
-    "id": "emma-jean-thackray-lagoon-lurve-carpet-shop",
-    "title": "Movementt: Emma-Jean Thackray & Lagoon Lurve",
-    "venue": "The Carpet Shop",
-    "scene": "music",
-    "date": "2026-10-24",
-    "endDate": null,
-    "time": "23:00",
-    "url": "https://app.discotech.me/events/38267022-emma-jean-thackray-and-lagoon-lurve-movementt-at-the-carpet-shop",
-    "blurb": "The jazz trumpeter and bandleader swaps horn for decks, digging through spiritual jazz, broken beat and house in a Rye Lane arch.",
-    "tags": [
-      "club",
-      "jazz",
-      "dj"
-    ],
-    "price": null
-  },
-  {
-    "id": "mystery-horror-movie-marathon-pcc",
-    "title": "Mystery Horror Movie Marathon",
-    "venue": "Prince Charles Cinema",
-    "scene": "cinema",
-    "date": "2026-10-24",
-    "endDate": null,
-    "time": "23:00",
-    "url": "https://princecharlescinema.com/film/31617175/mystery-horror-movie-marathon",
-    "blurb": "Five horror films, titles withheld until the lights go down, 500 minutes through the night. Strictly 18+, no admission after midnight.",
-    "tags": [
-      "all-nighter",
-      "marathon",
-      "horror",
-      "mystery"
-    ],
-    "price": "£22.50"
-  },
-  {
-    "id": "pure-poison-wellcome-collection",
-    "title": "Pure Poison",
-    "venue": "Wellcome Collection",
-    "scene": "words",
-    "date": "2026-10-24",
-    "endDate": null,
-    "time": "12:00",
-    "url": "https://wellcomecollection.org/events/pure-poison",
-    "blurb": "Drop-in afternoon on poisons in medicine, fashion and folklore, with archive reproductions, sniffable scents and mandrake lore. Free and suitably pre-Halloween.",
-    "tags": [
-      "drop-in",
-      "folklore",
-      "medicine"
-    ],
-    "price": "free"
-  },
-  {
-    "id": "carl-stone-cafe-oto",
-    "title": "Carl Stone + Excel DJ + Silvia Kastel (DJ)",
-    "venue": "Cafe OTO",
-    "scene": "music",
-    "date": "2026-10-25",
-    "endDate": null,
-    "time": "19:30",
-    "url": "https://www.cafeoto.co.uk/events/carl-stone-excel-dj-silvia-kastel-dj/",
-    "blurb": "The LA sampling pioneer chops pop, field recordings and restaurant menus into giddy, looping laptop collage. Silvia Kastel on the decks keeps things properly strange.",
-    "tags": [
-      "electronics",
-      "sampling",
-      "dj"
-    ],
-    "price": "£17"
-  },
-  {
-    "id": "cine-real-halloween-16mm-castle-cinema",
-    "title": "Cine-Real Halloween: Dead of Night + The Evil Dead on 16mm",
-    "venue": "The Castle Cinema",
-    "scene": "cinema",
-    "date": "2026-10-25",
-    "endDate": "2026-10-29",
-    "time": null,
-    "url": "https://thecastlecinema.com/calendar/",
-    "blurb": "Cine-Real's projectors come out for Ealing's portmanteau classic and Raimi's cabin, both on 16mm. Listed as sold out; check for returns.",
-    "tags": [
-      "16mm",
-      "horror",
-      "halloween",
-      "sold-out"
-    ],
-    "price": null
-  },
-  {
-    "id": "megalithic-imperative-horse-hospital",
-    "title": "Concrete Atlantis Present: The Megalithic Imperative",
-    "venue": "The Horse Hospital",
-    "scene": "words",
-    "date": "2026-10-25",
-    "endDate": null,
-    "time": "14:00",
-    "url": "https://www.thehorsehospital.com/events/concrete-atlantis-the-megalithic-imperative",
-    "blurb": "Launch of a 3rd Stone anthology of earth mysteries writing, with editor Neil Mortimer in conversation, then Urthona (Mortimer plus Mark Pilkington) playing standing stone drone. Hosted by Stonecirclesampler and Travis Elborough.",
-    "tags": [
-      "book-launch",
-      "folklore",
-      "earth-mysteries"
-    ],
-    "price": "£10"
-  },
-  {
-    "id": "shane-parish-autechre-guitar-ica",
-    "title": "In the Round: Shane Parish, Autechre Guitar",
-    "venue": "ICA",
-    "scene": "music",
-    "date": "2026-10-25",
-    "endDate": null,
-    "time": "18:30",
-    "url": "https://www.ica.art/live/shane-parish-autechre-guitar",
-    "blurb": "Ahleuchatistas guitarist translating Autechre's fractured machine logic onto six acoustic strings, played in the round. A stunt that turns out to be genuinely beautiful.",
-    "tags": [
-      "guitar",
-      "electronics",
-      "in-the-round"
-    ],
-    "price": "£29.87"
-  },
-  {
     "id": "nosferatu-live-score-pcc",
     "title": "Nosferatu with Live Score",
     "venue": "Prince Charles Cinema",
@@ -1010,39 +427,6 @@
       "halloween"
     ],
     "price": null
-  },
-  {
-    "id": "space-ullen-bergman-lund-cafe-oto",
-    "title": "SPACE: Lisa Ullén / Elsa Bergman / Anna Lund",
-    "venue": "Cafe OTO",
-    "scene": "music",
-    "date": "2026-10-26",
-    "endDate": null,
-    "time": "19:30",
-    "url": "https://www.cafeoto.co.uk/events/space-lisa-ullen-elsa-bergman-anna-lund/",
-    "blurb": "Swedish piano trio that treats the format as architecture: Lisa Ullén's dense clusters, Elsa Bergman's bowed bass and Anna Lund's patient, textural drums.",
-    "tags": [
-      "improv",
-      "piano-trio"
-    ],
-    "price": "£19"
-  },
-  {
-    "id": "duet-emmo-nik-colk-void-ica",
-    "title": "In the Round: Duet Emmo + Nik Colk Void",
-    "venue": "ICA",
-    "scene": "music",
-    "date": "2026-10-27",
-    "endDate": null,
-    "time": "19:30",
-    "url": "https://www.ica.art/live/duet-emmo",
-    "blurb": "Daniel Miller, Graham Lewis and B.C. Gilbert give their 1983 Mute one-off its world premiere live outing, 45 years late, on the ICA's 360 degree rig. Nik Colk Void supports with voice, guitar and Eurorack.",
-    "tags": [
-      "post-punk",
-      "electronics",
-      "spatial-sound"
-    ],
-    "price": "£32.71"
   },
   {
     "id": "bill-walton-form-of-honesty-studio-voltaire",
@@ -1062,23 +446,6 @@
     "price": "free"
   },
   {
-    "id": "bone-folder-matthew-bourne-servant-jazz-quarters",
-    "title": "Bone Folder + Matthew Bourne",
-    "venue": "Servant Jazz Quarters",
-    "scene": "music",
-    "date": "2026-10-29",
-    "endDate": null,
-    "time": null,
-    "url": "https://songkick.com/concerts/43384643-bone-folder-at-sjq",
-    "blurb": "Matthew Bourne, the pianist who swings between Monk, Moog and broken upright pianos, in the basement at SJQ. Intimate and liable to go anywhere.",
-    "tags": [
-      "piano",
-      "jazz",
-      "experimental"
-    ],
-    "price": null
-  },
-  {
     "id": "discrepant-vs-keroxen-cafe-oto",
     "title": "Discrepant vs Keroxen London Festival 2026",
     "venue": "Cafe OTO",
@@ -1094,23 +461,6 @@
       "electronics"
     ],
     "price": "£22"
-  },
-  {
-    "id": "jarman-kicking-the-pricks-london-review-bookshop",
-    "title": "Neil Bartlett & Richard Scott on Jarman's Kicking the Pricks",
-    "venue": "London Review Bookshop",
-    "scene": "words",
-    "date": "2026-10-29",
-    "endDate": null,
-    "time": "19:00",
-    "url": "https://www.eventbrite.co.uk/e/neil-bartlett-richard-scott-on-jarmans-kicking-the-pricks-tickets-2002060493831",
-    "blurb": "Two queer writers on Derek Jarman's 1987 diary-manifesto of Super 8, Dungeness and fury. Bartlett knew the era firsthand.",
-    "tags": [
-      "talk",
-      "books",
-      "queer-history"
-    ],
-    "price": "£10"
   },
   {
     "id": "exploding-cinema-cinema-museum",
@@ -1195,6 +545,38 @@
       "club",
       "dembow",
       "leftfield"
+    ],
+    "price": null
+  },
+  {
+    "id": "nodaway-halloween-waiting-room",
+    "title": "Nodaway, Halloween Costume Show",
+    "venue": "The Waiting Room",
+    "scene": "music",
+    "date": "2026-10-30",
+    "endDate": null,
+    "time": "19:00",
+    "url": "https://dice.fm/event/av8n57-nodaway-halloween-show-30th-oct-the-waiting-room-london-tickets",
+    "blurb": "Costumed gig at a Stoke Newington pub back room. Fancy dress is presumably encouraged.",
+    "tags": [
+      "indie",
+      "live"
+    ],
+    "price": null
+  },
+  {
+    "id": "widows-95-new-river",
+    "title": "Widows 95, Care Home, Cold Cough",
+    "venue": "New River Studios",
+    "scene": "music",
+    "date": "2026-10-30",
+    "endDate": null,
+    "time": "19:30",
+    "url": "https://newriverstudios.com/event/widows-95-care-home-cold-cough/",
+    "blurb": "Three loud bands in Manor House. Bring earplugs.",
+    "tags": [
+      "punk",
+      "noise"
     ],
     "price": null
   },
@@ -1285,6 +667,23 @@
     "price": "from £20"
   },
   {
+    "id": "horrors-halloween-ball-waiting-room",
+    "title": "The Horrors Halloween Ball w/ Ominous Moon (Live)",
+    "venue": "The Waiting Room",
+    "scene": "music",
+    "date": "2026-10-31",
+    "endDate": null,
+    "time": "22:00",
+    "url": "https://dice.fm/event/532v2l-the-horrors-halloween-ball-w-ominous-moon-live-31st-oct-the-waiting-room-london-tickets",
+    "blurb": "Goth-psych club night with a live set from Ominous Moon.",
+    "tags": [
+      "goth",
+      "psych",
+      "club"
+    ],
+    "price": null
+  },
+  {
     "id": "first-scares-matthew-sweet-cinema-museum",
     "title": "First Scares with Matthew Sweet",
     "venue": "The Cinema Museum",
@@ -1334,6 +733,23 @@
       "restoration"
     ],
     "price": "£11.50"
+  },
+  {
+    "id": "art-of-sundays-new-river",
+    "title": "Art of Sundays: live film soundtrack, ambient sets, DJs",
+    "venue": "New River Studios",
+    "scene": "music",
+    "date": "2026-11-01",
+    "endDate": null,
+    "time": "13:00",
+    "url": "https://newriverstudios.com/event/free-entry-art-of-sundays-presents-live-film-soundtrack-ambient-live-sets-djs-food-pop-up/",
+    "blurb": "All-day Sunday of live film scoring, ambient sets and a food pop-up. Free entry.",
+    "tags": [
+      "ambient",
+      "film",
+      "live-soundtrack"
+    ],
+    "price": "free"
   },
   {
     "id": "eyes-wide-shut-35mm-pcc",
@@ -1421,6 +837,22 @@
     "price": "£13.77"
   },
   {
+    "id": "radie-peat-union-chapel",
+    "title": "Radie Peat",
+    "venue": "Union Chapel",
+    "scene": "music",
+    "date": "2026-11-03",
+    "endDate": null,
+    "time": "19:00",
+    "url": "https://unionchapel.org.uk/whats-on/radie-peat",
+    "blurb": "Ancient-sounding folk from the Lankum harmonium player, in a very suitable chapel.",
+    "tags": [
+      "folk",
+      "harmonium"
+    ],
+    "price": null
+  },
+  {
     "id": "the-conch-south-london-gallery",
     "title": "The Conch",
     "venue": "South London Gallery",
@@ -1506,6 +938,22 @@
     "price": null
   },
   {
+    "id": "grow-your-own-new-river",
+    "title": "Grow Your Own presents: D.OV.E, Omega Tribe, Poorly Trained Radicals",
+    "venue": "New River Studios",
+    "scene": "music",
+    "date": "2026-11-06",
+    "endDate": null,
+    "time": "19:30",
+    "url": "https://newriverstudios.com/event/grow-your-own-presents-d-ov-e-omega-tribe-poorly-trained-radicals/",
+    "blurb": "DIY triple bill from the Grow Your Own crew.",
+    "tags": [
+      "diy",
+      "punk"
+    ],
+    "price": null
+  },
+  {
     "id": "kantarion-sound-upsammy-ormside-projects",
     "title": "Kantarion Sound: upsammy, Hermeneia, Vanja Rakić, Olgica, ex.sses",
     "venue": "Ormside Projects",
@@ -1521,6 +969,23 @@
       "sound-system"
     ],
     "price": null
+  },
+  {
+    "id": "pitchfork-dalston-takeover-cafe-oto",
+    "title": "Pitchfork Festival 2026: Dalston Takeover, MIDWIFE + SUPERFAN + IDEASFORCONVERSATIONS",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-11-07",
+    "endDate": null,
+    "time": "19:30",
+    "url": "https://www.cafeoto.co.uk/events/pitchfork-festival-2026-dalston-takeover/",
+    "blurb": "A festival takeover of OTO, with MIDWIFE's heavenly shoegaze slowcore up top. Pricier than a usual OTO night.",
+    "tags": [
+      "shoegaze",
+      "experimental",
+      "festival"
+    ],
+    "price": "£45"
   },
   {
     "id": "dead-souls-alex-cox-qa-pcc",
@@ -1557,6 +1022,57 @@
     "price": "£18"
   },
   {
+    "id": "wendy-eisenberg-tara-clerkin-cafe-oto",
+    "title": "Upset The Rhythm presents: Wendy Eisenberg + Tara Clerkin Trio",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-11-08",
+    "endDate": null,
+    "time": "19:30",
+    "url": "https://www.cafeoto.co.uk/events/upset-the-rhythm-presents-wendy-eisenberg-day-one/",
+    "blurb": "Night one of Wendy Eisenberg's two-night stand, with the Tara Clerkin Trio in support. Guitar that wanders where it likes.",
+    "tags": [
+      "guitar",
+      "experimental",
+      "songwriting"
+    ],
+    "price": "£17 (£15 DICE)"
+  },
+  {
+    "id": "wendy-eisenberg-jasper-llewellyn-cafe-oto",
+    "title": "Upset The Rhythm presents: Wendy Eisenberg + Jasper Llewellyn",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-11-09",
+    "endDate": null,
+    "time": "19:30",
+    "url": "https://www.cafeoto.co.uk/events/upset-the-rhythm-presents-wendy-eisenberg-day-two/",
+    "blurb": "Night two, this time paired with Jasper Llewellyn. Same guitarist, different company.",
+    "tags": [
+      "guitar",
+      "experimental",
+      "improv"
+    ],
+    "price": "£17 (£15 DICE)"
+  },
+  {
+    "id": "sam-eastmond-bagatelles-cafe-oto",
+    "title": "Sam Eastmond's Bagatelles Band",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-11-10",
+    "endDate": null,
+    "time": "19:30",
+    "url": "https://www.cafeoto.co.uk/events/sam-eastmonds-bagatelles-band/",
+    "blurb": "Short, sharp compositions for a band that treats the bagatelle as a serious form.",
+    "tags": [
+      "jazz",
+      "composition",
+      "improv"
+    ],
+    "price": "£22 (£20 adv)"
+  },
+  {
     "id": "prince-achmed-live-score-pcc",
     "title": "The Adventures of Prince Achmed with Live Score",
     "venue": "Prince Charles Cinema",
@@ -1589,6 +1105,23 @@
       "new-release"
     ],
     "price": null
+  },
+  {
+    "id": "sagome-029-cafe-oto",
+    "title": "SAGOME 029: Love Songs + Regina Collage + Stella Z",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-11-11",
+    "endDate": null,
+    "time": "19:30",
+    "url": "https://www.cafeoto.co.uk/events/sagome-029/",
+    "blurb": "The Sagome series returns with two live sets and a DJ to close.",
+    "tags": [
+      "electronic",
+      "experimental",
+      "live"
+    ],
+    "price": "£17 (£15 adv)"
   },
   {
     "id": "lisa-robertson-iain-sinclair-riverwork-london-review-bookshop",
@@ -1656,6 +1189,39 @@
       "book-launch",
       "biography",
       "exhibition-opening"
+    ],
+    "price": null
+  },
+  {
+    "id": "space-5-cafe-oto",
+    "title": "SPACE 5: Barthel / Maggiore, Murayama / Schmid, Joan-Miller / Berwick + Regan Bowering",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-11-12",
+    "endDate": null,
+    "time": "19:30",
+    "url": "https://www.cafeoto.co.uk/events/space-5/",
+    "blurb": "Three duos and a solo piece of European free improvisation. Quiet, exacting, occasionally prickly.",
+    "tags": [
+      "improv",
+      "free-improvisation"
+    ],
+    "price": "£14 (£12 adv)"
+  },
+  {
+    "id": "dollhouse-nisemono-new-river",
+    "title": "Dollhouse, Nisemono, Secrecy, Sublux",
+    "venue": "New River Studios",
+    "scene": "music",
+    "date": "2026-11-13",
+    "endDate": null,
+    "time": "19:30",
+    "url": "https://newriverstudios.com/event/dollhouse-nisemono-secrecy-sublux/",
+    "blurb": "Four-band underground bill, heavy on feedback.",
+    "tags": [
+      "punk",
+      "noise",
+      "diy"
     ],
     "price": null
   },
@@ -1814,6 +1380,22 @@
     "price": null
   },
   {
+    "id": "su-i-think-waiting-room",
+    "title": "su i think, day one",
+    "venue": "The Waiting Room",
+    "scene": "music",
+    "date": "2026-11-18",
+    "endDate": null,
+    "time": "19:30",
+    "url": "https://dice.fm/partner/tickets/event/6do297-su-i-think-18th-nov-the-waiting-room-london-tickets",
+    "blurb": "Two-night run, this being the first. Fragile bedroom pop with a stubborn streak.",
+    "tags": [
+      "indie",
+      "bedroom-pop"
+    ],
+    "price": null
+  },
+  {
     "id": "bruguera-mishra-platforms-for-dissent-whitechapel-gallery",
     "title": "Art Futures: Platforms for Dissent with Tania Bruguera and Pankaj Mishra",
     "venue": "Whitechapel Gallery",
@@ -1846,6 +1428,39 @@
       "all-day"
     ],
     "price": "£23"
+  },
+  {
+    "id": "raven-nest-waiting-room",
+    "title": "Raven's Nest: This Eternal Decay, Social Youth Cult, Nothing New",
+    "venue": "The Waiting Room",
+    "scene": "music",
+    "date": "2026-11-21",
+    "endDate": null,
+    "time": "20:00",
+    "url": "https://wegottickets.com/f/22577",
+    "blurb": "Gothic and post-punk bill for the black-clad.",
+    "tags": [
+      "goth",
+      "post-punk"
+    ],
+    "price": null
+  },
+  {
+    "id": "dakhabrakha-union-chapel",
+    "title": "DakhaBrakha",
+    "venue": "Union Chapel",
+    "scene": "music",
+    "date": "2026-11-23",
+    "endDate": null,
+    "time": "19:00",
+    "url": "https://unionchapel.org.uk/whats-on/dakhabrakha",
+    "blurb": "Ukrainian ethno-chaos quartet in towering fur hats, doing polyphonic folk with a beat.",
+    "tags": [
+      "folk",
+      "world",
+      "polyphony"
+    ],
+    "price": null
   },
   {
     "id": "sonic-support-eco-abbas-zahedi-studio-voltaire",
