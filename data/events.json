@@ -1,56 +1,5 @@
 [
   {
-    "id": "rio-forever-50",
-    "title": "Rio Forever: 50 Years of the Rio",
-    "venue": "Rio Cinema",
-    "scene": "cinema",
-    "date": "2026-08-09",
-    "endDate": "2026-10-31",
-    "time": null,
-    "url": "https://riocinema.org.uk/",
-    "blurb": "The community-run Dalston landmark celebrates its half-century with archival gems, 35mm prints and guest intros through October. Support your local picture palace.",
-    "tags": [
-      "season",
-      "anniversary",
-      "35mm"
-    ],
-    "price": null
-  },
-  {
-    "id": "stanton-bfi",
-    "title": "A Road Less Travelled: Harry Dean Stanton",
-    "venue": "BFI Southbank",
-    "scene": "cinema",
-    "date": "2026-09-01",
-    "endDate": "2026-10-31",
-    "time": null,
-    "url": "https://whatson.bfi.org.uk/Online/default.asp?BOparam::WScontent::loadArticle::permalink=seasons",
-    "blurb": "Fifty years of the greatest face in American cinema: Paris, Texas, Repo Man and the character-actor deep cuts. Every screening a masterclass in doing less.",
-    "tags": [
-      "season",
-      "actor-season",
-      "americana"
-    ],
-    "price": null
-  },
-  {
-    "id": "chabrol-bfi",
-    "title": "Claude Chabrol: Elements of Crime",
-    "venue": "BFI Southbank",
-    "scene": "cinema",
-    "date": "2026-09-01",
-    "endDate": "2026-10-31",
-    "time": null,
-    "url": "https://whatson.bfi.org.uk/Online/default.asp?BOparam::WScontent::loadArticle::permalink=seasons",
-    "blurb": "Two months of poisonous bourgeois thrillers from the Nouvelle Vague's Hitchcockian, with a companion strand at the ICA (11, 25 Sep). Le Boucher with a glass of something red is the correct autumn ritual.",
-    "tags": [
-      "season",
-      "director-season",
-      "french"
-    ],
-    "price": null
-  },
-  {
     "id": "sosnowska-slg",
     "title": "Monika Sosnowska: Weight of Matter",
     "venue": "South London Gallery",
@@ -342,23 +291,6 @@
     "price": null
   },
   {
-    "id": "the-shining-uk-version-35mm-pcc",
-    "title": "The Shining [UK Version] on 35mm",
-    "venue": "Prince Charles Cinema",
-    "scene": "cinema",
-    "date": "2026-10-18",
-    "endDate": "2026-10-31",
-    "time": null,
-    "url": "https://princecharlescinema.com/film/1865481/the-shining-uk-version",
-    "blurb": "Kubrick's tighter European cut, the one missing 25 minutes, on 35mm right through Horroctober.",
-    "tags": [
-      "35mm",
-      "horror",
-      "kubrick"
-    ],
-    "price": "£11.50"
-  },
-  {
     "id": "billy-wilder-season-bfi-southbank",
     "title": "Almost Perfect: The Films of Billy Wilder",
     "venue": "BFI Southbank",
@@ -411,24 +343,6 @@
     "price": null
   },
   {
-    "id": "nosferatu-live-score-pcc",
-    "title": "Nosferatu with Live Score",
-    "venue": "Prince Charles Cinema",
-    "scene": "cinema",
-    "date": "2026-10-25",
-    "endDate": "2026-10-31",
-    "time": null,
-    "url": "https://princecharlescinema.com/film/17198089/nosferatu-with-live-score",
-    "blurb": "Murnau's original rat king, scored live by Hugo Max across three Halloween week screenings including the night itself.",
-    "tags": [
-      "live-score",
-      "silent",
-      "horror",
-      "halloween"
-    ],
-    "price": null
-  },
-  {
     "id": "bill-walton-form-of-honesty-studio-voltaire",
     "title": "Bill Walton: A Form of Honesty",
     "venue": "Studio Voltaire",
@@ -444,40 +358,6 @@
       "outsider"
     ],
     "price": "free"
-  },
-  {
-    "id": "discrepant-vs-keroxen-cafe-oto",
-    "title": "Discrepant vs Keroxen London Festival 2026",
-    "venue": "Cafe OTO",
-    "scene": "music",
-    "date": "2026-10-29",
-    "endDate": "2026-10-31",
-    "time": "19:30",
-    "url": "https://www.cafeoto.co.uk/events/discrepant-vs-keroxen-london-festival-2026/",
-    "blurb": "Three nights of Discrepant's wonky collage universe crossed with Tenerife's Keroxen: People Like Us, DJ Sniff, Memotone, Ale Hop, Black Affrontit and Spencer Clark's Light Abductions. Every ticket comes with a free record.",
-    "tags": [
-      "festival",
-      "collage",
-      "electronics"
-    ],
-    "price": "£22"
-  },
-  {
-    "id": "exploding-cinema-cinema-museum",
-    "title": "Exploding Cinema: 30th October",
-    "venue": "The Cinema Museum",
-    "scene": "cinema",
-    "date": "2026-10-30",
-    "endDate": null,
-    "time": "19:00",
-    "url": "https://cinemamuseum.org.uk/scheduled/exploding-cinema-30th-october/",
-    "blurb": "London's open access underground film collective: anyone's shorts, live music, heckling, Q&As. The scrappy heart of DIY cinema.",
-    "tags": [
-      "experimental",
-      "shorts",
-      "diy"
-    ],
-    "price": "£7.50"
   },
   {
     "id": "singalonga-rocky-horror-pcc",
@@ -496,209 +376,6 @@
       "sold-out"
     ],
     "price": "£18.50"
-  },
-  {
-    "id": "spellbound-society-of-antiquaries",
-    "title": "Spellbound at The Society of Antiquaries",
-    "venue": "Society of Antiquaries of London",
-    "scene": "words",
-    "date": "2026-10-30",
-    "endDate": null,
-    "time": "17:00",
-    "url": "https://www.sal.org.uk/?p=45696",
-    "blurb": "Witch bottles, bellarmine spirit houses and a 17th century physician's notebook come out at Burlington House, plus amulet making and a cocktail. Geoffrey Munn presents a Tudor charmstone.",
-    "tags": [
-      "occult",
-      "museum-night",
-      "antiquities"
-    ],
-    "price": null
-  },
-  {
-    "id": "vampire-ball-the-hunger-garden-cinema",
-    "title": "Vampire Ball: Live Violin, Cocktails + The Hunger",
-    "venue": "The Garden Cinema",
-    "scene": "cinema",
-    "date": "2026-10-30",
-    "endDate": null,
-    "time": "18:30",
-    "url": "https://www.thegardencinema.co.uk/film/vampire-ball-live-violin-cocktails-the-hunger/",
-    "blurb": "Bowie, Deneuve and Tony Scott's smoke machine, preceded by live violin and cocktails. Fruits on Film's first event.",
-    "tags": [
-      "halloween",
-      "cult",
-      "event"
-    ],
-    "price": null
-  },
-  {
-    "id": "mi-el-pulling-threads-kelman-duran-ormside-projects",
-    "title": "mi-el presents Pulling Threads w/ Kelman Duran, ojoo, Lord Tusk",
-    "venue": "Ormside Projects",
-    "scene": "music",
-    "date": "2026-10-30",
-    "endDate": null,
-    "time": "23:00",
-    "url": "https://app.discotech.me/events/38289783-mi-el-presents-pulling-threads-with-kelman-duran-ojoo-lord-tusk-at-ormside-projects",
-    "blurb": "Kelman Duran's slowed, smeared dembow and reggaeton ghosts alongside Lord Tusk's dubbed-out oddities. Club music that feels like a fever dream.",
-    "tags": [
-      "club",
-      "dembow",
-      "leftfield"
-    ],
-    "price": null
-  },
-  {
-    "id": "nodaway-halloween-waiting-room",
-    "title": "Nodaway, Halloween Costume Show",
-    "venue": "The Waiting Room",
-    "scene": "music",
-    "date": "2026-10-30",
-    "endDate": null,
-    "time": "19:00",
-    "url": "https://dice.fm/event/av8n57-nodaway-halloween-show-30th-oct-the-waiting-room-london-tickets",
-    "blurb": "Costumed gig at a Stoke Newington pub back room. Fancy dress is presumably encouraged.",
-    "tags": [
-      "indie",
-      "live"
-    ],
-    "price": null
-  },
-  {
-    "id": "widows-95-new-river",
-    "title": "Widows 95, Care Home, Cold Cough",
-    "venue": "New River Studios",
-    "scene": "music",
-    "date": "2026-10-30",
-    "endDate": null,
-    "time": "19:30",
-    "url": "https://newriverstudios.com/event/widows-95-care-home-cold-cough/",
-    "blurb": "Three loud bands in Manor House. Bring earplugs.",
-    "tags": [
-      "punk",
-      "noise"
-    ],
-    "price": null
-  },
-  {
-    "id": "5-gate-temple-halloween-nkisi-ormside-projects",
-    "title": "5 Gate Temple Halloween: Nkisi / Junior Loves / D. Phylleia / Landlock (live)",
-    "venue": "Ormside Projects",
-    "scene": "music",
-    "date": "2026-10-31",
-    "endDate": null,
-    "time": "23:00",
-    "url": "https://app.discotech.me/events/38292531-5-gate-temple-halloween-nkisi-junior-loves-d-phylleia-landlock-live-at-ormside-projects",
-    "blurb": "Nkisi's polyrhythmic hard-drum ritualism heads a Samhain edition billed as the last 5 Gate Temple for a while. Masks encouraged.",
-    "tags": [
-      "club",
-      "techno",
-      "halloween"
-    ],
-    "price": "£20"
-  },
-  {
-    "id": "buss-alia-alex-nut-carpet-shop",
-    "title": "Buss with AliA b2b Alex Nut, Sharnie, Cam Joon",
-    "venue": "The Carpet Shop",
-    "scene": "music",
-    "date": "2026-10-31",
-    "endDate": null,
-    "time": "23:00",
-    "url": "https://app.discotech.me/events/38279705-buss-with-alia-b2b-alex-nut-3-hours-sharnie-and-cam-joon-at-the-carpet-shop",
-    "blurb": "Three hours of Alex Nut (Swamp81, NTS) going back to back with AliA, two diggers who can move from UK funky to Brazilian edits without a seam.",
-    "tags": [
-      "club",
-      "dj",
-      "halloween"
-    ],
-    "price": null
-  },
-  {
-    "id": "circuit-des-yeux-nosferatu-ica",
-    "title": "Circuit des Yeux feat. Alan Sparhawk presents Nosferatu (1922)",
-    "venue": "ICA",
-    "scene": "music",
-    "date": "2026-10-31",
-    "endDate": null,
-    "time": "20:00",
-    "url": "https://www.ica.art/live/cdy-nosferatu",
-    "blurb": "Haley Fohr's operatic baritone and Low's Alan Sparhawk improvise a new score for Murnau's vampire. Halloween done with taste.",
-    "tags": [
-      "live-score",
-      "film",
-      "halloween"
-    ],
-    "price": "£26.50"
-  },
-  {
-    "id": "echogenic-halloween-the-glove-that-fits",
-    "title": "Echogenic Halloween",
-    "venue": "The Glove That Fits",
-    "scene": "music",
-    "date": "2026-10-31",
-    "endDate": null,
-    "time": "15:00",
-    "url": "https://ra.co/events/2467986",
-    "blurb": "Afternoon-to-evening Halloween session at the tiny Morning Lane bar with Beaven, Myff Busta, Nio-B, PANACEA and Toad.xp b2b Somewhat Simian. Cheap, sweaty, done by nine.",
-    "tags": [
-      "club",
-      "daytime",
-      "halloween"
-    ],
-    "price": "£5-£10"
-  },
-  {
-    "id": "halloween-marathon-pcc",
-    "title": "Halloween Marathon",
-    "venue": "Prince Charles Cinema",
-    "scene": "cinema",
-    "date": "2026-10-31",
-    "endDate": null,
-    "time": "23:15",
-    "url": "https://princecharlescinema.com/film/31617462/halloween-marathon",
-    "blurb": "All six Michael Myers outings from the 1978 original to the Curse Producer's Cut, 617 minutes on Halloween night itself. Pace yourself around Season of the Witch.",
-    "tags": [
-      "all-nighter",
-      "marathon",
-      "horror",
-      "halloween"
-    ],
-    "price": "from £20"
-  },
-  {
-    "id": "horrors-halloween-ball-waiting-room",
-    "title": "The Horrors Halloween Ball w/ Ominous Moon (Live)",
-    "venue": "The Waiting Room",
-    "scene": "music",
-    "date": "2026-10-31",
-    "endDate": null,
-    "time": "22:00",
-    "url": "https://dice.fm/event/532v2l-the-horrors-halloween-ball-w-ominous-moon-live-31st-oct-the-waiting-room-london-tickets",
-    "blurb": "Goth-psych club night with a live set from Ominous Moon.",
-    "tags": [
-      "goth",
-      "psych",
-      "club"
-    ],
-    "price": null
-  },
-  {
-    "id": "first-scares-matthew-sweet-cinema-museum",
-    "title": "First Scares with Matthew Sweet",
-    "venue": "The Cinema Museum",
-    "scene": "cinema",
-    "date": "2026-11-01",
-    "endDate": null,
-    "time": "14:00",
-    "url": "https://cinemamuseum.org.uk/scheduled/first-scares/",
-    "blurb": "Matthew Sweet hosts an afternoon of early screen horror. Two shows.",
-    "tags": [
-      "horror",
-      "archive",
-      "talk"
-    ],
-    "price": "£22.50 to £40"
   },
   {
     "id": "fred-frith-residency-cafe-oto",
@@ -733,23 +410,6 @@
       "restoration"
     ],
     "price": "£11.50"
-  },
-  {
-    "id": "art-of-sundays-new-river",
-    "title": "Art of Sundays: live film soundtrack, ambient sets, DJs",
-    "venue": "New River Studios",
-    "scene": "music",
-    "date": "2026-11-01",
-    "endDate": null,
-    "time": "13:00",
-    "url": "https://newriverstudios.com/event/free-entry-art-of-sundays-presents-live-film-soundtrack-ambient-live-sets-djs-food-pop-up/",
-    "blurb": "All-day Sunday of live film scoring, ambient sets and a food pop-up. Free entry.",
-    "tags": [
-      "ambient",
-      "film",
-      "live-soundtrack"
-    ],
-    "price": "free"
   },
   {
     "id": "eyes-wide-shut-35mm-pcc",
@@ -887,6 +547,40 @@
     "price": null
   },
   {
+    "id": "fantastic-planet-pcc",
+    "title": "Fantastic Planet",
+    "venue": "Prince Charles Cinema",
+    "scene": "cinema",
+    "date": "2026-11-04",
+    "endDate": null,
+    "time": "18:20",
+    "url": "https://princecharlescinema.com/seasons-events/renlaloux",
+    "blurb": "René Laloux's 1973 animation about giant blue Draags keeping humans as pets, with Roland Topor's cutout designs. Still deeply odd.",
+    "tags": [
+      "animation",
+      "sci-fi",
+      "cult"
+    ],
+    "price": null
+  },
+  {
+    "id": "globe-unity-60-talk-cafe-oto",
+    "title": "Globe Unity 60: illustrated talk and book launch",
+    "venue": "Cafe OTO",
+    "scene": "words",
+    "date": "2026-11-05",
+    "endDate": null,
+    "time": "17:30",
+    "url": "https://www.cafeoto.co.uk/events/globe-unity-60/",
+    "blurb": "Markus Müller presents an illustrated history and book on Globe Unity Orchestra, a tidy warm-up for the residency running that week.",
+    "tags": [
+      "free-jazz",
+      "talk",
+      "book-launch"
+    ],
+    "price": "£8 (£6 adv)"
+  },
+  {
     "id": "accidental-meetings-meakusma-cafe-oto",
     "title": "Accidental Meetings & Meakusma present: Flora Yin Wong & Jerzy Maczynski + Ibrahim Alfa Jnr + opo + Elijah Minnelli",
     "venue": "Cafe OTO",
@@ -950,6 +644,23 @@
     "tags": [
       "diy",
       "punk"
+    ],
+    "price": null
+  },
+  {
+    "id": "short-cuts-35mm-pcc",
+    "title": "Short Cuts on 35mm",
+    "venue": "Prince Charles Cinema",
+    "scene": "cinema",
+    "date": "2026-11-06",
+    "endDate": null,
+    "time": "14:15",
+    "url": "https://princecharlescinema.com/seasons-events/short-cuts",
+    "blurb": "Robert Altman's sprawling Los Angeles ensemble piece, on the touring 35mm roadshow print. A dozen storylines and nobody gets tidied away.",
+    "tags": [
+      "35mm",
+      "altman",
+      "ensemble"
     ],
     "price": null
   },
@@ -1073,6 +784,23 @@
     "price": "£22 (£20 adv)"
   },
   {
+    "id": "anne-serre-alice-blackhurst-lrb",
+    "title": "Anne Serre & Alice Blackhurst: Virtue and Rosalind",
+    "venue": "London Review Bookshop",
+    "scene": "words",
+    "date": "2026-11-10",
+    "endDate": null,
+    "time": "19:00",
+    "url": "https://www.eventbrite.co.uk/e/anne-serre-alice-blackhurst-virtue-and-rosalind-tickets-2002535082338",
+    "blurb": "The French fabulist of domestic unease in conversation with Alice Blackhurst about her new novel. Expect polite surrealism.",
+    "tags": [
+      "fiction",
+      "translation",
+      "french"
+    ],
+    "price": "£10"
+  },
+  {
     "id": "prince-achmed-live-score-pcc",
     "title": "The Adventures of Prince Achmed with Live Score",
     "venue": "Prince Charles Cinema",
@@ -1122,6 +850,23 @@
       "live"
     ],
     "price": "£17 (£15 adv)"
+  },
+  {
+    "id": "diane-williams-lucie-elven-lrb",
+    "title": "Diane Williams & Lucie Elven: I Liked Rex",
+    "venue": "London Review Bookshop",
+    "scene": "words",
+    "date": "2026-11-11",
+    "endDate": null,
+    "time": "19:00",
+    "url": "https://www.eventbrite.co.uk/e/diane-williams-lucie-elven-i-liked-rex-tickets-2002536137494",
+    "blurb": "American master of the weirdly compressed short story in conversation with Lucie Elven. Sentences that bend at the corners.",
+    "tags": [
+      "short-stories",
+      "fiction",
+      "reading"
+    ],
+    "price": "£10"
   },
   {
     "id": "lisa-robertson-iain-sinclair-riverwork-london-review-bookshop",
@@ -1209,6 +954,23 @@
     "price": "£14 (£12 adv)"
   },
   {
+    "id": "have-a-gd-trip-double-pcc",
+    "title": "Have A Gd Trip double feature",
+    "venue": "Prince Charles Cinema",
+    "scene": "cinema",
+    "date": "2026-11-12",
+    "endDate": null,
+    "time": "21:00",
+    "url": "https://princecharlescinema.com/seasons-events/marathons",
+    "blurb": "A late double bill from the PCC's Marathons, Double & Triple Features strand. Bring snacks and a loose grip on the evening.",
+    "tags": [
+      "double-feature",
+      "late-night",
+      "marathon"
+    ],
+    "price": "£20"
+  },
+  {
     "id": "dollhouse-nisemono-new-river",
     "title": "Dollhouse, Nisemono, Secrecy, Sublux",
     "venue": "New River Studios",
@@ -1224,6 +986,23 @@
       "diy"
     ],
     "price": null
+  },
+  {
+    "id": "dudu-kouate-ernst-reijseger-cafe-oto",
+    "title": "Dudú Kouaté & Ernst Reijseger, solos and duo",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-11-13",
+    "endDate": null,
+    "time": "19:30",
+    "url": "https://www.cafeoto.co.uk/events/dudu-kouate-ernst-reijseger/",
+    "blurb": "Senegalese percussionist meets the Dutch cellist who scored Herzog, in solos and a duo set. Expect more conversation than showboating.",
+    "tags": [
+      "world",
+      "improv",
+      "cello"
+    ],
+    "price": "£20 (£18 adv)"
   },
   {
     "id": "homoelectric-venue-mot",
@@ -1311,6 +1090,23 @@
       "free-jazz"
     ],
     "price": "£13"
+  },
+  {
+    "id": "dave-okumu-friends-union-chapel",
+    "title": "Dave Okumu & Friends",
+    "venue": "Union Chapel",
+    "scene": "music",
+    "date": "2026-11-15",
+    "endDate": null,
+    "time": "18:30",
+    "url": "https://unionchapel.org.uk/whats-on/dave-okumu-friends",
+    "blurb": "The Invisible guitarist and sought-after collaborator gathers friends under the stained glass. Billing is coy, so expect a night of guests and left turns.",
+    "tags": [
+      "art-pop",
+      "guitar",
+      "collaboration"
+    ],
+    "price": null
   },
   {
     "id": "barry-lyndon-35mm-pcc",
@@ -1413,6 +1209,23 @@
     "price": "£15"
   },
   {
+    "id": "jacqueline-rose-alice-spawls-two-women-lrb",
+    "title": "Jacqueline Rose & Alice Spawls: Two Women",
+    "venue": "London Review Bookshop",
+    "scene": "words",
+    "date": "2026-11-19",
+    "endDate": null,
+    "time": "19:00",
+    "url": "https://www.eventbrite.co.uk/e/jacqueline-rose-alice-spawls-two-women-tickets-2002711753767",
+    "blurb": "Jacqueline Rose discusses her new book with the LRB's Alice Spawls. Dense, sharp, very Bloomsbury.",
+    "tags": [
+      "psychoanalysis",
+      "criticism",
+      "talk"
+    ],
+    "price": "£10"
+  },
+  {
     "id": "haunted-landscape-fortean-conway-hall",
     "title": "The Haunted Landscape: Magic, Fairies and Old Gods",
     "venue": "Conway Hall",
@@ -1446,6 +1259,23 @@
     "price": null
   },
   {
+    "id": "pans-labyrinth-35mm-rio",
+    "title": "Little White Lies: Pan's Labyrinth on 35mm",
+    "venue": "Rio Cinema",
+    "scene": "cinema",
+    "date": "2026-11-22",
+    "endDate": null,
+    "time": null,
+    "url": "https://riocinema.org.uk/Rio.dll/WhatsOn?f=2967676",
+    "blurb": "Del Toro's Spanish Civil War fairy tale, projected on film at the Dalston picture palace. Mud, mandrakes and a very bad Captain Vidal.",
+    "tags": [
+      "35mm",
+      "fantasy",
+      "del-toro"
+    ],
+    "price": null
+  },
+  {
     "id": "dakhabrakha-union-chapel",
     "title": "DakhaBrakha",
     "venue": "Union Chapel",
@@ -1459,6 +1289,23 @@
       "folk",
       "world",
       "polyphony"
+    ],
+    "price": null
+  },
+  {
+    "id": "yi-yi-pcc",
+    "title": "Yi Yi",
+    "venue": "Prince Charles Cinema",
+    "scene": "cinema",
+    "date": "2026-11-23",
+    "endDate": null,
+    "time": "20:10",
+    "url": "https://princecharlescinema.com/seasons-events/ed-yang",
+    "blurb": "Edward Yang's Taipei family epic, among the finest films of its decade. Patient, devastating and funnier than its reputation.",
+    "tags": [
+      "taiwan",
+      "edward-yang",
+      "drama"
     ],
     "price": null
   },
@@ -1582,6 +1429,23 @@
     "price": "free"
   },
   {
+    "id": "solve-along-a-murder-she-wrote-pcc",
+    "title": "Solve-Along-A Murder She Wrote",
+    "venue": "Prince Charles Cinema",
+    "scene": "cinema",
+    "date": "2026-11-26",
+    "endDate": null,
+    "time": "20:45",
+    "url": "https://princecharlescinema.com/seasons-events/solve-murd",
+    "blurb": "The PCC's audience participation treatment applied to Jessica Fletcher. Shout your theories at the screen and be wrong in company.",
+    "tags": [
+      "sing-along",
+      "tv",
+      "interactive"
+    ],
+    "price": "£16"
+  },
+  {
     "id": "london-international-animation-festival-barbican",
     "title": "London International Animation Festival 2026",
     "venue": "Barbican Cinema",
@@ -1630,6 +1494,40 @@
       "christmas"
     ],
     "price": "£18.50"
+  },
+  {
+    "id": "lambchop-night-one-union-chapel",
+    "title": "An Evening with Lambchop (Night One)",
+    "venue": "Union Chapel",
+    "scene": "music",
+    "date": "2026-11-27",
+    "endDate": null,
+    "time": "19:00",
+    "url": "https://unionchapel.org.uk/whats-on/an-evening-with-lambchop-night-one",
+    "blurb": "Kurt Wagner's Nashville outfit, long since drifted from country into hushed chamber strangeness. A fine fit for a chapel.",
+    "tags": [
+      "alt-country",
+      "chamber",
+      "electronics"
+    ],
+    "price": null
+  },
+  {
+    "id": "category-h-malatesta-final-destination-rio",
+    "title": "Category H: Malatesta's Carnival of Blood + Final Destination 3",
+    "venue": "Rio Cinema",
+    "scene": "cinema",
+    "date": "2026-11-27",
+    "endDate": null,
+    "time": null,
+    "url": "https://riocinema.org.uk/Rio.dll/WhatsOn?f=2817671",
+    "blurb": "Late night horror double bill from the Rio's Category H strand. Carnival slasher obscurity first, rollercoaster fatalism second.",
+    "tags": [
+      "horror",
+      "double-feature",
+      "late-night"
+    ],
+    "price": null
   },
   {
     "id": "sonic-cinema-daichi-saito-ica",
@@ -1681,6 +1579,23 @@
       "director-season"
     ],
     "price": "from £20"
+  },
+  {
+    "id": "something-wicked-rave-rio",
+    "title": "Something Wicked This Way Comes: a folk + cosmic horror rave",
+    "venue": "Rio Cinema",
+    "scene": "music",
+    "date": "2026-11-28",
+    "endDate": null,
+    "time": "23:30",
+    "url": "https://riocinema.org.uk/Rio.dll/WhatsOn?f=2861239",
+    "blurb": "A self-described heretical multimedia rave: dark folk to trip-hop black metal live, then jungle, gabber and grime DJs, with horror footage as visuals. Dream Emulator Soundsystem handles the damage.",
+    "tags": [
+      "rave",
+      "folk-horror",
+      "live"
+    ],
+    "price": null
   },
   {
     "id": "jennifer-walshe-tomomi-adachi-cafe-oto",
