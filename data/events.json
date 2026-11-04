@@ -378,23 +378,6 @@
     "price": "£18.50"
   },
   {
-    "id": "fred-frith-residency-cafe-oto",
-    "title": "Fred Frith: Two-Night Residency",
-    "venue": "Cafe OTO",
-    "scene": "music",
-    "date": "2026-11-01",
-    "endDate": "2026-11-02",
-    "time": "19:30",
-    "url": "https://www.cafeoto.co.uk/events/fred-frith-2026/",
-    "blurb": "Henry Cow reunion of sorts with Tim Hodgkinson and Liz Allbee on night one, then Frith solo and in duo with Anne Bourne. Prepared guitar from the man who more or less wrote the manual.",
-    "tags": [
-      "guitar",
-      "improv",
-      "residency"
-    ],
-    "price": "£22"
-  },
-  {
     "id": "the-devils-directors-cut-35mm-pcc",
     "title": "Ken Russell's The Devils: The Director's Cut",
     "venue": "Prince Charles Cinema",
@@ -461,56 +444,6 @@
       "35mm"
     ],
     "price": "£11.50"
-  },
-  {
-    "id": "last-of-england-castle-cinema",
-    "title": "The Last of England + Intro and Book Launch",
-    "venue": "The Castle Cinema",
-    "scene": "cinema",
-    "date": "2026-11-03",
-    "endDate": null,
-    "time": "18:30",
-    "url": "https://thecastlecinema.com/calendar/",
-    "blurb": "Derek Jarman's Super 8 apocalypse, introduced by Gareth Evans with a book launch.",
-    "tags": [
-      "experimental",
-      "archive",
-      "book-launch"
-    ],
-    "price": null
-  },
-  {
-    "id": "peoples-history-of-music-horse-hospital",
-    "title": "Upset The Rhythm: A People's History of Music",
-    "venue": "The Horse Hospital",
-    "scene": "words",
-    "date": "2026-11-03",
-    "endDate": null,
-    "time": "19:30",
-    "url": "https://www.thehorsehospital.com/events/a-peoples-history-of-music",
-    "blurb": "Eric Isaacson's slideshow lecture on music scenes that kept going under dictatorships, from Ethiopia and Cambodia to North Korea, with archival film and sound.",
-    "tags": [
-      "lecture",
-      "music-history",
-      "archive"
-    ],
-    "price": "£13.77"
-  },
-  {
-    "id": "radie-peat-union-chapel",
-    "title": "Radie Peat",
-    "venue": "Union Chapel",
-    "scene": "music",
-    "date": "2026-11-03",
-    "endDate": null,
-    "time": "19:00",
-    "url": "https://unionchapel.org.uk/whats-on/radie-peat",
-    "blurb": "Ancient-sounding folk from the Lankum harmonium player, in a very suitable chapel.",
-    "tags": [
-      "folk",
-      "harmonium"
-    ],
-    "price": null
   },
   {
     "id": "the-conch-south-london-gallery",
@@ -663,6 +596,23 @@
       "ensemble"
     ],
     "price": null
+  },
+  {
+    "id": "akira-pcc",
+    "title": "Akira",
+    "venue": "Prince Charles Cinema",
+    "scene": "cinema",
+    "date": "2026-11-06",
+    "endDate": null,
+    "time": "20:45",
+    "url": "https://princecharlescinema.com/seasons-events/",
+    "blurb": "Neo-Tokyo goes pop on the big screen, with that sound design doing its worst to the Leicester Square sub-bass. Part of the Anime at the PCC strand.",
+    "tags": [
+      "anime",
+      "sci-fi",
+      "cult"
+    ],
+    "price": "£11.50 / £14.50"
   },
   {
     "id": "kantarion-sound-upsammy-ormside-projects",
@@ -1092,6 +1042,23 @@
     "price": "£13"
   },
   {
+    "id": "offsite-show-rowden-tosswill-cafe-oto",
+    "title": "OFFSITE SHOW: Zach Rowden + Lauren Tosswill + Rory Salter / Caius Williams / Regan Bowering + Vicky Sparrow",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-11-14",
+    "endDate": null,
+    "time": "14:00",
+    "url": "https://www.cafeoto.co.uk/events/offsite-show-zach-rowden-rory-salter-caius-william/",
+    "blurb": "An afternoon of improvised pairings and solos, programmed by OTO but staged elsewhere. Double bass, voice and objects, with no one told what to expect.",
+    "tags": [
+      "improv",
+      "experimental",
+      "matinee"
+    ],
+    "price": "£12 (£10 adv)"
+  },
+  {
     "id": "dave-okumu-friends-union-chapel",
     "title": "Dave Okumu & Friends",
     "venue": "Union Chapel",
@@ -1259,6 +1226,23 @@
     "price": null
   },
   {
+    "id": "blue-velvet-pcc",
+    "title": "Blue Velvet",
+    "venue": "Prince Charles Cinema",
+    "scene": "cinema",
+    "date": "2026-11-21",
+    "endDate": null,
+    "time": "20:25",
+    "url": "https://princecharlescinema.com/seasons-events/",
+    "blurb": "Lynch's suburban severed-ear nightmare, as part of the David Lynch Forever season. Still the best argument for never following a stranger home.",
+    "tags": [
+      "lynch",
+      "neo-noir",
+      "cult"
+    ],
+    "price": "£11.50 / £14.50"
+  },
+  {
     "id": "pans-labyrinth-35mm-rio",
     "title": "Little White Lies: Pan's Labyrinth on 35mm",
     "venue": "Rio Cinema",
@@ -1376,6 +1360,23 @@
       "film"
     ],
     "price": "£19"
+  },
+  {
+    "id": "thief-pcc",
+    "title": "Thief",
+    "venue": "Prince Charles Cinema",
+    "scene": "cinema",
+    "date": "2026-11-24",
+    "endDate": null,
+    "time": "18:00",
+    "url": "https://princecharlescinema.com/seasons-events/",
+    "blurb": "Michael Mann's neon-slicked safecracker study with a Tangerine Dream score, opening the PCC's Mann season. James Caan at his most coiled.",
+    "tags": [
+      "michael-mann",
+      "crime",
+      "synth-score"
+    ],
+    "price": "£11.50 / £14.50"
   },
   {
     "id": "tamas-gaskill-book-of-mysteries-london-review-bookshop",
