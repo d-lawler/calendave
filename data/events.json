@@ -378,23 +378,6 @@
     "price": "£18.50"
   },
   {
-    "id": "the-devils-directors-cut-35mm-pcc",
-    "title": "Ken Russell's The Devils: The Director's Cut",
-    "venue": "Prince Charles Cinema",
-    "scene": "cinema",
-    "date": "2026-11-01",
-    "endDate": "2026-11-05",
-    "time": null,
-    "url": "https://princecharlescinema.com/film/31617501/ken-russells-the-devils-the-directors-cut",
-    "blurb": "Russell's still scandalous Loudun possession epic, restored to the director's cut and shown on 35mm for one week in early November.",
-    "tags": [
-      "35mm",
-      "cult",
-      "restoration"
-    ],
-    "price": "£11.50"
-  },
-  {
     "id": "eyes-wide-shut-35mm-pcc",
     "title": "Eyes Wide Shut on 35mm",
     "venue": "Prince Charles Cinema",
@@ -412,23 +395,6 @@
     "price": "£11.50"
   },
   {
-    "id": "globe-unity-orchestra-cafe-oto",
-    "title": "Globe Unity Orchestra: Three-Day Residency",
-    "venue": "Cafe OTO",
-    "scene": "music",
-    "date": "2026-11-03",
-    "endDate": "2026-11-05",
-    "time": "19:30",
-    "url": "https://www.cafeoto.co.uk/events/schlippenbach-globe-unity-orchestra/",
-    "blurb": "Schlippenbach's free jazz big band turns 60 with fifteen players squeezed into OTO, including Evan Parker, Axel Dörner, Aki Takase and Paul Lytton. History, loudly.",
-    "tags": [
-      "free-jazz",
-      "big-band",
-      "residency"
-    ],
-    "price": "£42"
-  },
-  {
     "id": "neo-noirvember-pcc",
     "title": "Neo-Noirvember",
     "venue": "Prince Charles Cinema",
@@ -444,74 +410,6 @@
       "35mm"
     ],
     "price": "£11.50"
-  },
-  {
-    "id": "the-conch-south-london-gallery",
-    "title": "The Conch",
-    "venue": "South London Gallery",
-    "scene": "words",
-    "date": "2026-11-04",
-    "endDate": null,
-    "time": "18:30",
-    "url": "https://www.southlondongallery.org/events/the-conch-2/",
-    "blurb": "Live art work in progress from Georgina Hill, Alia Hamaoui and Beatrice Vorster on the home as a site of labour and performance, then a group crit. Starts sharp.",
-    "tags": [
-      "live-art",
-      "work-in-progress",
-      "performance"
-    ],
-    "price": "£10"
-  },
-  {
-    "id": "vinyl-requiem-philip-jeck-union-chapel",
-    "title": "Vinyl Requiem 33.3: Philip Jeck & Lol Sargent",
-    "venue": "Union Chapel",
-    "scene": "music",
-    "date": "2026-11-04",
-    "endDate": null,
-    "time": "19:30",
-    "url": "https://unionchapel.org.uk/whats-on/vinyl-requiem-333-philip-jeck-lol-sargent",
-    "blurb": "33.3 years after 180 Dansettes filled this chapel, the film of Jeck and Sargent's 1993 Vinyl Requiem is screened at full scale, with a Q&A and Touch's new double-vinyl edition. Profits go to the Philip Jeck Foundation.",
-    "tags": [
-      "turntablism",
-      "film",
-      "touch"
-    ],
-    "price": null
-  },
-  {
-    "id": "fantastic-planet-pcc",
-    "title": "Fantastic Planet",
-    "venue": "Prince Charles Cinema",
-    "scene": "cinema",
-    "date": "2026-11-04",
-    "endDate": null,
-    "time": "18:20",
-    "url": "https://princecharlescinema.com/seasons-events/renlaloux",
-    "blurb": "René Laloux's 1973 animation about giant blue Draags keeping humans as pets, with Roland Topor's cutout designs. Still deeply odd.",
-    "tags": [
-      "animation",
-      "sci-fi",
-      "cult"
-    ],
-    "price": null
-  },
-  {
-    "id": "globe-unity-60-talk-cafe-oto",
-    "title": "Globe Unity 60: illustrated talk and book launch",
-    "venue": "Cafe OTO",
-    "scene": "words",
-    "date": "2026-11-05",
-    "endDate": null,
-    "time": "17:30",
-    "url": "https://www.cafeoto.co.uk/events/globe-unity-60/",
-    "blurb": "Markus Müller presents an illustrated history and book on Globe Unity Orchestra, a tidy warm-up for the residency running that week.",
-    "tags": [
-      "free-jazz",
-      "talk",
-      "book-launch"
-    ],
-    "price": "£8 (£6 adv)"
   },
   {
     "id": "accidental-meetings-meakusma-cafe-oto",
@@ -751,6 +649,23 @@
     "price": "£10"
   },
   {
+    "id": "in-the-realm-of-the-senses-pcc",
+    "title": "In the Realm of the Senses",
+    "venue": "Prince Charles Cinema",
+    "scene": "cinema",
+    "date": "2026-11-10",
+    "endDate": null,
+    "time": null,
+    "url": "https://princecharlescinema.com/seasons-events/nagisashi",
+    "blurb": "Nagisa Oshima's notorious 1976 tale of obsession, part of a three-film Oshima strand. Not a first-date movie.",
+    "tags": [
+      "oshima",
+      "japanese",
+      "arthouse"
+    ],
+    "price": null
+  },
+  {
     "id": "prince-achmed-live-score-pcc",
     "title": "The Adventures of Prince Achmed with Live Score",
     "venue": "Prince Charles Cinema",
@@ -955,6 +870,23 @@
     "price": "£20 (£18 adv)"
   },
   {
+    "id": "the-time-masters-pcc",
+    "title": "The Time Masters",
+    "venue": "Prince Charles Cinema",
+    "scene": "cinema",
+    "date": "2026-11-13",
+    "endDate": null,
+    "time": "18:20",
+    "url": "https://princecharlescinema.com/seasons-events/renlaloux",
+    "blurb": "René Laloux's psychedelic French animated sci-fi, from his three-film season. Moebius designs, fever-dream plotting.",
+    "tags": [
+      "animation",
+      "sci-fi",
+      "laloux"
+    ],
+    "price": null
+  },
+  {
     "id": "homoelectric-venue-mot",
     "title": "HomoElectric",
     "venue": "Venue MOT",
@@ -1059,6 +991,23 @@
     "price": "£12 (£10 adv)"
   },
   {
+    "id": "maxine-funke-cafe-oto",
+    "title": "Maxine Funke + Clayton Noone + Time Is Away (DJ)",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-11-14",
+    "endDate": null,
+    "time": "19:30",
+    "url": "https://www.cafeoto.co.uk/events/maxine-funke/",
+    "blurb": "A Saturday night of hushed, home-recorded songcraft from Maxine Funke, with Clayton Noone and a DJ set to see everyone out.",
+    "tags": [
+      "songwriting",
+      "experimental",
+      "dj"
+    ],
+    "price": "£19 (£17 adv)"
+  },
+  {
     "id": "dave-okumu-friends-union-chapel",
     "title": "Dave Okumu & Friends",
     "venue": "Union Chapel",
@@ -1074,6 +1023,23 @@
       "collaboration"
     ],
     "price": null
+  },
+  {
+    "id": "mexican-confluences-pina-para-la-nina-cafe-oto",
+    "title": "Unpredictable presents: Mexican Confluences feat. Piña para la Niña",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-11-15",
+    "endDate": null,
+    "time": "19:30",
+    "url": "https://www.cafeoto.co.uk/events/unpredictable-presents-mexican-confluences/",
+    "blurb": "Unpredictable's Sunday bulletin from the Mexico City underground, led by Piña para la Niña. Expect folk forms bent well out of shape.",
+    "tags": [
+      "experimental",
+      "mexico",
+      "live"
+    ],
+    "price": "£15 (£12 adv)"
   },
   {
     "id": "barry-lyndon-35mm-pcc",
@@ -1155,6 +1121,22 @@
     "tags": [
       "indie",
       "bedroom-pop"
+    ],
+    "price": null
+  },
+  {
+    "id": "mystery-movie-pcc",
+    "title": "Mystery Movie",
+    "venue": "Prince Charles Cinema",
+    "scene": "cinema",
+    "date": "2026-11-18",
+    "endDate": null,
+    "time": "20:45",
+    "url": "https://princecharlescinema.com/seasons-events/mystery",
+    "blurb": "The PCC's blind-date screening: you buy the ticket, they keep the title secret. Surrender is the whole point.",
+    "tags": [
+      "mystery",
+      "one-off"
     ],
     "price": null
   },
