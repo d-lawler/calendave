@@ -34,23 +34,6 @@
     "price": "free"
   },
   {
-    "id": "martine-syms-knot-eye-sadie-coles",
-    "title": "Martine Syms: Knot Eye",
-    "venue": "Sadie Coles HQ, Kingly Street",
-    "scene": "art",
-    "date": "2026-09-17",
-    "endDate": "2026-11-07",
-    "time": null,
-    "url": "https://www.sadiecoles.com/exhibitions/knot-eye",
-    "blurb": "Two new films, a New Orleans docu-fantasy and a drunk late-night apartment story, plus a concept store that is also an artwork. Peak Syms, in Soho.",
-    "tags": [
-      "exhibition",
-      "film",
-      "gallery"
-    ],
-    "price": "free"
-  },
-  {
     "id": "wang-goldsmiths",
     "title": "Evelyn Taocheng Wang: Being Poetic Ruins Life",
     "venue": "Goldsmiths CCA",
@@ -412,40 +395,6 @@
     "price": "£11.50"
   },
   {
-    "id": "accidental-meetings-meakusma-cafe-oto",
-    "title": "Accidental Meetings & Meakusma present: Flora Yin Wong & Jerzy Maczynski + Ibrahim Alfa Jnr + opo + Elijah Minnelli",
-    "venue": "Cafe OTO",
-    "scene": "music",
-    "date": "2026-11-06",
-    "endDate": null,
-    "time": "19:30",
-    "url": "https://www.cafeoto.co.uk/events/accidental-meetings-meakusma/",
-    "blurb": "The Belgian Meakusma festival brings its tilted dub-and-drone sensibility to Dalston, with Flora Yin Wong's ritual ambience paired with Jerzy Maczynski and a run of left-field live sets.",
-    "tags": [
-      "electronics",
-      "ambient",
-      "label-night"
-    ],
-    "price": "£19"
-  },
-  {
-    "id": "firestations-dominie-hooper-the-waiting-room",
-    "title": "Firestations + Dominie Hooper",
-    "venue": "The Waiting Room",
-    "scene": "music",
-    "date": "2026-11-06",
-    "endDate": null,
-    "time": null,
-    "url": "https://beta.songkick.com/concerts/43293009-firestations-at-waiting-room",
-    "blurb": "London band Firestations share the Stoke Newington basement with cellist and composer Dominie Hooper, whose looped, eerie bow work is the reason to go early.",
-    "tags": [
-      "cello",
-      "dream-pop",
-      "loops"
-    ],
-    "price": null
-  },
-  {
     "id": "katie-shannon-episode-16-goldsmiths-cca",
     "title": "Katie Shannon: BACK/PRUNE/VIRGIN/RUIN",
     "venue": "Goldsmiths CCA",
@@ -463,141 +412,6 @@
     "price": null
   },
   {
-    "id": "grow-your-own-new-river",
-    "title": "Grow Your Own presents: D.OV.E, Omega Tribe, Poorly Trained Radicals",
-    "venue": "New River Studios",
-    "scene": "music",
-    "date": "2026-11-06",
-    "endDate": null,
-    "time": "19:30",
-    "url": "https://newriverstudios.com/event/grow-your-own-presents-d-ov-e-omega-tribe-poorly-trained-radicals/",
-    "blurb": "DIY triple bill from the Grow Your Own crew.",
-    "tags": [
-      "diy",
-      "punk"
-    ],
-    "price": null
-  },
-  {
-    "id": "short-cuts-35mm-pcc",
-    "title": "Short Cuts on 35mm",
-    "venue": "Prince Charles Cinema",
-    "scene": "cinema",
-    "date": "2026-11-06",
-    "endDate": null,
-    "time": "14:15",
-    "url": "https://princecharlescinema.com/seasons-events/short-cuts",
-    "blurb": "Robert Altman's sprawling Los Angeles ensemble piece, on the touring 35mm roadshow print. A dozen storylines and nobody gets tidied away.",
-    "tags": [
-      "35mm",
-      "altman",
-      "ensemble"
-    ],
-    "price": null
-  },
-  {
-    "id": "akira-pcc",
-    "title": "Akira",
-    "venue": "Prince Charles Cinema",
-    "scene": "cinema",
-    "date": "2026-11-06",
-    "endDate": null,
-    "time": "20:45",
-    "url": "https://princecharlescinema.com/seasons-events/",
-    "blurb": "Neo-Tokyo goes pop on the big screen, with that sound design doing its worst to the Leicester Square sub-bass. Part of the Anime at the PCC strand.",
-    "tags": [
-      "anime",
-      "sci-fi",
-      "cult"
-    ],
-    "price": "£11.50 / £14.50"
-  },
-  {
-    "id": "kantarion-sound-upsammy-ormside-projects",
-    "title": "Kantarion Sound: upsammy, Hermeneia, Vanja Rakić, Olgica, ex.sses",
-    "venue": "Ormside Projects",
-    "scene": "music",
-    "date": "2026-11-07",
-    "endDate": null,
-    "time": "23:00",
-    "url": "https://app.discotech.me/events/38298407-kantarion-sound-upsammy-hermeneia-vanja-rakic-oglica-exsses-nebo-arts-12-at-ormside-projects",
-    "blurb": "Balkan sound system's London debut, with upsammy's squelchy, playful IDM-leaning sets and a crew of Belgrade selectors on dubby, trippy electronics.",
-    "tags": [
-      "club",
-      "electronics",
-      "sound-system"
-    ],
-    "price": null
-  },
-  {
-    "id": "pitchfork-dalston-takeover-cafe-oto",
-    "title": "Pitchfork Festival 2026: Dalston Takeover, MIDWIFE + SUPERFAN + IDEASFORCONVERSATIONS",
-    "venue": "Cafe OTO",
-    "scene": "music",
-    "date": "2026-11-07",
-    "endDate": null,
-    "time": "19:30",
-    "url": "https://www.cafeoto.co.uk/events/pitchfork-festival-2026-dalston-takeover/",
-    "blurb": "A festival takeover of OTO, with MIDWIFE's heavenly shoegaze slowcore up top. Pricier than a usual OTO night.",
-    "tags": [
-      "shoegaze",
-      "experimental",
-      "festival"
-    ],
-    "price": "£45"
-  },
-  {
-    "id": "dead-souls-alex-cox-qa-pcc",
-    "title": "Dead Souls + Alex Cox Q&A",
-    "venue": "Prince Charles Cinema",
-    "scene": "cinema",
-    "date": "2026-11-08",
-    "endDate": null,
-    "time": "20:00",
-    "url": "https://princecharlescinema.com/film/31617548/dead-souls-alex-cox-qa",
-    "blurb": "Alex Cox's Gogol by way of spaghetti western, with Cox himself on stage afterwards. Expect tangents.",
-    "tags": [
-      "q-and-a",
-      "western",
-      "cult"
-    ],
-    "price": null
-  },
-  {
-    "id": "evan-parker-feedbaxophone-cafe-oto",
-    "title": "Evan Parker Matinee Residency: Feedbaxophone with Henry Dagg",
-    "venue": "Cafe OTO",
-    "scene": "music",
-    "date": "2026-11-08",
-    "endDate": null,
-    "time": "14:00",
-    "url": "https://www.cafeoto.co.uk/events/evan-parker-matinee-residency-3/",
-    "blurb": "Sunday afternoon Parker paired with Henry Dagg, the sound sculptor behind the Sharpsichord, on something billed as the Feedbaxophone. Exactly as odd as it sounds.",
-    "tags": [
-      "improv",
-      "instrument-building",
-      "matinee"
-    ],
-    "price": "£18"
-  },
-  {
-    "id": "wendy-eisenberg-tara-clerkin-cafe-oto",
-    "title": "Upset The Rhythm presents: Wendy Eisenberg + Tara Clerkin Trio",
-    "venue": "Cafe OTO",
-    "scene": "music",
-    "date": "2026-11-08",
-    "endDate": null,
-    "time": "19:30",
-    "url": "https://www.cafeoto.co.uk/events/upset-the-rhythm-presents-wendy-eisenberg-day-one/",
-    "blurb": "Night one of Wendy Eisenberg's two-night stand, with the Tara Clerkin Trio in support. Guitar that wanders where it likes.",
-    "tags": [
-      "guitar",
-      "experimental",
-      "songwriting"
-    ],
-    "price": "£17 (£15 DICE)"
-  },
-  {
     "id": "wendy-eisenberg-jasper-llewellyn-cafe-oto",
     "title": "Upset The Rhythm presents: Wendy Eisenberg + Jasper Llewellyn",
     "venue": "Cafe OTO",
@@ -613,6 +427,40 @@
       "improv"
     ],
     "price": "£17 (£15 DICE)"
+  },
+  {
+    "id": "short-cuts-35mm-pcc",
+    "title": "Short Cuts on 35mm",
+    "venue": "Prince Charles Cinema",
+    "scene": "cinema",
+    "date": "2026-11-09",
+    "endDate": null,
+    "time": "20:00",
+    "url": "https://princecharlescinema.com/seasons-events/short-cuts",
+    "blurb": "Robert Altman's sprawling Los Angeles ensemble piece, on the touring 35mm roadshow print. A dozen storylines and nobody gets tidied away.",
+    "tags": [
+      "35mm",
+      "altman",
+      "ensemble"
+    ],
+    "price": null
+  },
+  {
+    "id": "the-devils-4k-pcc",
+    "title": "The Devils in 4K",
+    "venue": "Prince Charles Cinema",
+    "scene": "cinema",
+    "date": "2026-11-09",
+    "endDate": null,
+    "time": "17:25",
+    "url": "https://princecharlescinema.com/seasons-events/4kp",
+    "blurb": "Ken Russell's possessed-nuns provocation, still the film the censors least wanted you to see.",
+    "tags": [
+      "ken-russell",
+      "4k",
+      "cult"
+    ],
+    "price": null
   },
   {
     "id": "sam-eastmond-bagatelles-cafe-oto",
@@ -662,6 +510,23 @@
       "oshima",
       "japanese",
       "arthouse"
+    ],
+    "price": null
+  },
+  {
+    "id": "akira-pcc",
+    "title": "Akira",
+    "venue": "Prince Charles Cinema",
+    "scene": "cinema",
+    "date": "2026-11-10",
+    "endDate": null,
+    "time": "15:10",
+    "url": "https://princecharlescinema.com/seasons-events/anime",
+    "blurb": "Neo-Tokyo goes pop on the big screen, with that sound design doing its worst to the Leicester Square sub-bass. Part of the Anime at the PCC strand.",
+    "tags": [
+      "anime",
+      "sci-fi",
+      "cult"
     ],
     "price": null
   },
@@ -732,6 +597,23 @@
       "reading"
     ],
     "price": "£10"
+  },
+  {
+    "id": "in-the-mood-for-love-pcc",
+    "title": "In the Mood for Love",
+    "venue": "Prince Charles Cinema",
+    "scene": "cinema",
+    "date": "2026-11-11",
+    "endDate": null,
+    "time": "20:50",
+    "url": "https://princecharlescinema.com/seasons-events/wong-kar-w",
+    "blurb": "Wong Kar-wai's two neighbours, one cigarette haze and several thousand lingering glances. Part of the Wong Kar Wai season.",
+    "tags": [
+      "wong-kar-wai",
+      "romance",
+      "hong-kong"
+    ],
+    "price": null
   },
   {
     "id": "lisa-robertson-iain-sinclair-riverwork-london-review-bookshop",
@@ -834,6 +716,23 @@
       "marathon"
     ],
     "price": "£20"
+  },
+  {
+    "id": "love-witch-pcc",
+    "title": "The Love Witch with intro",
+    "venue": "Prince Charles Cinema",
+    "scene": "cinema",
+    "date": "2026-11-12",
+    "endDate": null,
+    "time": "18:15",
+    "url": "https://princecharlescinema.com/seasons-events/qaintro",
+    "blurb": "Anna Biller's Technicolor homage to 60s occult pulp, all pastel hexes and lethal seduction. Screening with an intro.",
+    "tags": [
+      "35mm-look",
+      "occult",
+      "female-filmmakers"
+    ],
+    "price": null
   },
   {
     "id": "dollhouse-nisemono-new-river",
@@ -1058,6 +957,23 @@
     "price": "£11.50"
   },
   {
+    "id": "kraaklings-cafe-oto",
+    "title": "KRAAKLINGS: Horacio Pollard + Venediktos Tempelboom + Kiara Govaert",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-11-16",
+    "endDate": null,
+    "time": "19:30",
+    "url": "https://www.cafeoto.co.uk/events/kraaklings/",
+    "blurb": "Infant Tree and KRAAK team up for a Monday of new experimental sound from three artists on the label's radar.",
+    "tags": [
+      "experimental",
+      "electronics",
+      "kraak"
+    ],
+    "price": "£14 (£12 adv)"
+  },
+  {
     "id": "sam-gendel-sam-wilkes-union-chapel",
     "title": "Sam Gendel & Sam Wilkes",
     "venue": "Union Chapel",
@@ -1090,6 +1006,23 @@
       "prize"
     ],
     "price": "free"
+  },
+  {
+    "id": "robyns-rocket-jazz-festival-cafe-oto",
+    "title": "Robyn's Rocket + Little Kali + ATMoss",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-11-17",
+    "endDate": null,
+    "time": "19:30",
+    "url": "https://www.cafeoto.co.uk/events/efg-london-jazz-festival-robyns-rocket/",
+    "blurb": "A London Jazz Festival night with Laura Jurd and Robyn Rocket plus live visuals from Rucksack Cinema and Jade. Jazz, but with the lights doing things.",
+    "tags": [
+      "jazz",
+      "audiovisual",
+      "electronics"
+    ],
+    "price": "£15 (£12 WeGotTickets)"
   },
   {
     "id": "grouper-residency-cafe-oto",
@@ -1173,6 +1106,23 @@
       "talk"
     ],
     "price": "£10"
+  },
+  {
+    "id": "jimi-tenor-band-cafe-oto",
+    "title": "Jimi Tenor Band: Two-Day Residency",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-11-20",
+    "endDate": "2026-11-21",
+    "time": null,
+    "url": "https://www.cafeoto.co.uk/events/jimi-tenor-band-two-day-residency/",
+    "blurb": "The Finnish saxophone and flute eccentric settles in for two nights of his band's cosmic Afro-funk and analogue weirdness.",
+    "tags": [
+      "jazz",
+      "funk",
+      "electronic"
+    ],
+    "price": null
   },
   {
     "id": "haunted-landscape-fortean-conway-hall",
