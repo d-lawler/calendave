@@ -412,125 +412,6 @@
     "price": null
   },
   {
-    "id": "wendy-eisenberg-jasper-llewellyn-cafe-oto",
-    "title": "Upset The Rhythm presents: Wendy Eisenberg + Jasper Llewellyn",
-    "venue": "Cafe OTO",
-    "scene": "music",
-    "date": "2026-11-09",
-    "endDate": null,
-    "time": "19:30",
-    "url": "https://www.cafeoto.co.uk/events/upset-the-rhythm-presents-wendy-eisenberg-day-two/",
-    "blurb": "Night two, this time paired with Jasper Llewellyn. Same guitarist, different company.",
-    "tags": [
-      "guitar",
-      "experimental",
-      "improv"
-    ],
-    "price": "£17 (£15 DICE)"
-  },
-  {
-    "id": "short-cuts-35mm-pcc",
-    "title": "Short Cuts on 35mm",
-    "venue": "Prince Charles Cinema",
-    "scene": "cinema",
-    "date": "2026-11-09",
-    "endDate": null,
-    "time": "20:00",
-    "url": "https://princecharlescinema.com/seasons-events/short-cuts",
-    "blurb": "Robert Altman's sprawling Los Angeles ensemble piece, on the touring 35mm roadshow print. A dozen storylines and nobody gets tidied away.",
-    "tags": [
-      "35mm",
-      "altman",
-      "ensemble"
-    ],
-    "price": null
-  },
-  {
-    "id": "the-devils-4k-pcc",
-    "title": "The Devils in 4K",
-    "venue": "Prince Charles Cinema",
-    "scene": "cinema",
-    "date": "2026-11-09",
-    "endDate": null,
-    "time": "17:25",
-    "url": "https://princecharlescinema.com/seasons-events/4kp",
-    "blurb": "Ken Russell's possessed-nuns provocation, still the film the censors least wanted you to see.",
-    "tags": [
-      "ken-russell",
-      "4k",
-      "cult"
-    ],
-    "price": null
-  },
-  {
-    "id": "sam-eastmond-bagatelles-cafe-oto",
-    "title": "Sam Eastmond's Bagatelles Band",
-    "venue": "Cafe OTO",
-    "scene": "music",
-    "date": "2026-11-10",
-    "endDate": null,
-    "time": "19:30",
-    "url": "https://www.cafeoto.co.uk/events/sam-eastmonds-bagatelles-band/",
-    "blurb": "Short, sharp compositions for a band that treats the bagatelle as a serious form.",
-    "tags": [
-      "jazz",
-      "composition",
-      "improv"
-    ],
-    "price": "£22 (£20 adv)"
-  },
-  {
-    "id": "anne-serre-alice-blackhurst-lrb",
-    "title": "Anne Serre & Alice Blackhurst: Virtue and Rosalind",
-    "venue": "London Review Bookshop",
-    "scene": "words",
-    "date": "2026-11-10",
-    "endDate": null,
-    "time": "19:00",
-    "url": "https://www.eventbrite.co.uk/e/anne-serre-alice-blackhurst-virtue-and-rosalind-tickets-2002535082338",
-    "blurb": "The French fabulist of domestic unease in conversation with Alice Blackhurst about her new novel. Expect polite surrealism.",
-    "tags": [
-      "fiction",
-      "translation",
-      "french"
-    ],
-    "price": "£10"
-  },
-  {
-    "id": "in-the-realm-of-the-senses-pcc",
-    "title": "In the Realm of the Senses",
-    "venue": "Prince Charles Cinema",
-    "scene": "cinema",
-    "date": "2026-11-10",
-    "endDate": null,
-    "time": null,
-    "url": "https://princecharlescinema.com/seasons-events/nagisashi",
-    "blurb": "Nagisa Oshima's notorious 1976 tale of obsession, part of a three-film Oshima strand. Not a first-date movie.",
-    "tags": [
-      "oshima",
-      "japanese",
-      "arthouse"
-    ],
-    "price": null
-  },
-  {
-    "id": "akira-pcc",
-    "title": "Akira",
-    "venue": "Prince Charles Cinema",
-    "scene": "cinema",
-    "date": "2026-11-10",
-    "endDate": null,
-    "time": "15:10",
-    "url": "https://princecharlescinema.com/seasons-events/anime",
-    "blurb": "Neo-Tokyo goes pop on the big screen, with that sound design doing its worst to the Leicester Square sub-bass. Part of the Anime at the PCC strand.",
-    "tags": [
-      "anime",
-      "sci-fi",
-      "cult"
-    ],
-    "price": null
-  },
-  {
     "id": "prince-achmed-live-score-pcc",
     "title": "The Adventures of Prince Achmed with Live Score",
     "venue": "Prince Charles Cinema",
@@ -612,6 +493,23 @@
       "wong-kar-wai",
       "romance",
       "hong-kong"
+    ],
+    "price": null
+  },
+  {
+    "id": "pereda-season-ica",
+    "title": "Between the Lines: Films by Nicolás Pereda",
+    "venue": "ICA",
+    "scene": "cinema",
+    "date": "2026-11-11",
+    "endDate": "2026-12-17",
+    "time": null,
+    "url": "https://www.ica.art/films/pereda",
+    "blurb": "A run of the Mexican director's oblique, deadpan, genre-bending features.",
+    "tags": [
+      "mexican",
+      "arthouse",
+      "season"
     ],
     "price": null
   },
@@ -735,6 +633,22 @@
     "price": null
   },
   {
+    "id": "angels-egg-pcc",
+    "title": "Angel's Egg",
+    "venue": "Prince Charles Cinema",
+    "scene": "cinema",
+    "date": "2026-11-12",
+    "endDate": null,
+    "time": "12:00",
+    "url": "https://princecharlescinema.com/seasons-events/anime",
+    "blurb": "Mamoru Oshii's hushed, rain-soaked anime fable, short on plot and long on dread.",
+    "tags": [
+      "anime",
+      "arthouse"
+    ],
+    "price": null
+  },
+  {
     "id": "dollhouse-nisemono-new-river",
     "title": "Dollhouse, Nisemono, Secrecy, Sublux",
     "venue": "New River Studios",
@@ -782,6 +696,23 @@
       "animation",
       "sci-fi",
       "laloux"
+    ],
+    "price": null
+  },
+  {
+    "id": "london-palestine-film-festival-barbican",
+    "title": "London Palestine Film Festival 2026",
+    "venue": "Barbican Cinema",
+    "scene": "cinema",
+    "date": "2026-11-13",
+    "endDate": "2026-11-19",
+    "time": null,
+    "url": "https://www.barbican.org.uk/whats-on/2026/series/london-palestine-film-festival-2026",
+    "blurb": "A week of films and conversations, with further screenings at the Rio.",
+    "tags": [
+      "festival",
+      "palestine",
+      "documentary"
     ],
     "price": null
   },
@@ -907,6 +838,22 @@
     "price": "£19 (£17 adv)"
   },
   {
+    "id": "fargo-neo-noirvember-pcc",
+    "title": "Fargo",
+    "venue": "Prince Charles Cinema",
+    "scene": "cinema",
+    "date": "2026-11-14",
+    "endDate": null,
+    "time": "18:20",
+    "url": "https://princecharlescinema.com/seasons-events/neonoir",
+    "blurb": "Snow, wood chippers and Minnesotan politeness, as part of Neo-Noirvember.",
+    "tags": [
+      "neo-noir",
+      "coens"
+    ],
+    "price": null
+  },
+  {
     "id": "dave-okumu-friends-union-chapel",
     "title": "Dave Okumu & Friends",
     "venue": "Union Chapel",
@@ -941,6 +888,74 @@
     "price": "£15 (£12 adv)"
   },
   {
+    "id": "basquiat-preview-barbican",
+    "title": "Preview: Jean-Michel Basquiat",
+    "venue": "Barbican Cinema",
+    "scene": "cinema",
+    "date": "2026-11-15",
+    "endDate": null,
+    "time": "17:45",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/preview-jean-michel-basquiat-15",
+    "blurb": "An advance look at a new film on the painter who turned scrawl into currency.",
+    "tags": [
+      "documentary",
+      "art",
+      "preview"
+    ],
+    "price": null
+  },
+  {
+    "id": "ica-archive-sale",
+    "title": "ICA Archive Sale",
+    "venue": "ICA",
+    "scene": "words",
+    "date": "2026-11-15",
+    "endDate": null,
+    "time": null,
+    "url": "https://www.ica.art/bookshop/ica-archive-sale",
+    "blurb": "The bookshop clears out the back catalogue: old catalogues, posters and printed matter at rummage prices.",
+    "tags": [
+      "books",
+      "archive",
+      "sale"
+    ],
+    "price": null
+  },
+  {
+    "id": "devils-loose-willis-rio",
+    "title": "Loose Willis presents: The Devils",
+    "venue": "Rio Cinema",
+    "scene": "cinema",
+    "date": "2026-11-15",
+    "endDate": null,
+    "time": null,
+    "url": "https://riocinema.org.uk/Rio.dll/WhatsOn?f=3002852",
+    "blurb": "Ken Russell's possessed-nuns freakout gets a club-night treatment in Dalston.",
+    "tags": [
+      "horror",
+      "ken-russell",
+      "cult"
+    ],
+    "price": null
+  },
+  {
+    "id": "labyrinth-40th-pcc",
+    "title": "Labyrinth: 40th Anniversary",
+    "venue": "Prince Charles Cinema",
+    "scene": "cinema",
+    "date": "2026-11-15",
+    "endDate": null,
+    "time": "12:15",
+    "url": "https://princecharlescinema.com/seasons-events/musicmovie",
+    "blurb": "Bowie in tight trousers and a very good wig, forty years on.",
+    "tags": [
+      "bowie",
+      "fantasy",
+      "anniversary"
+    ],
+    "price": null
+  },
+  {
     "id": "barry-lyndon-35mm-pcc",
     "title": "Barry Lyndon on 35mm",
     "venue": "Prince Charles Cinema",
@@ -972,6 +987,22 @@
       "kraak"
     ],
     "price": "£14 (£12 adv)"
+  },
+  {
+    "id": "taxi-driver-pcc",
+    "title": "Taxi Driver",
+    "venue": "Prince Charles Cinema",
+    "scene": "cinema",
+    "date": "2026-11-16",
+    "endDate": null,
+    "time": "14:50",
+    "url": "https://princecharlescinema.com/seasons-events/scorsese",
+    "blurb": "Scorsese and De Niro in a fever of New York grime.",
+    "tags": [
+      "scorsese",
+      "neo-noir"
+    ],
+    "price": null
   },
   {
     "id": "sam-gendel-sam-wilkes-union-chapel",
@@ -1108,6 +1139,57 @@
     "price": "£10"
   },
   {
+    "id": "bongeziwe-mabandla-union-chapel",
+    "title": "Bongeziwe Mabandla",
+    "venue": "Union Chapel",
+    "scene": "music",
+    "date": "2026-11-19",
+    "endDate": null,
+    "time": "19:30",
+    "url": "https://unionchapel.org.uk/whats-on/bongeziwe-mabandla",
+    "blurb": "Xhosa-language folk and soul from the South African songwriter, suited to a chapel with an echo.",
+    "tags": [
+      "folk",
+      "soul",
+      "south-africa"
+    ],
+    "price": null
+  },
+  {
+    "id": "robocobra-quartet-lara-jones-ica",
+    "title": "Robocobra Quartet + Lara Jones",
+    "venue": "ICA",
+    "scene": "music",
+    "date": "2026-11-19",
+    "endDate": null,
+    "time": null,
+    "url": "https://www.ica.art/live/robocobra-quartet",
+    "blurb": "Sheffield art-jazz-punk agitators paired with saxophonist Lara Jones, in the ICA theatre.",
+    "tags": [
+      "jazz",
+      "art-rock",
+      "live"
+    ],
+    "price": null
+  },
+  {
+    "id": "visible-justice-hisham-matar-ica",
+    "title": "Visible Justice: Anatomies of Disappearance",
+    "venue": "ICA",
+    "scene": "words",
+    "date": "2026-11-19",
+    "endDate": null,
+    "time": null,
+    "url": "https://www.ica.art/talks/visible-justice-anatomies-of-disappearance",
+    "blurb": "Photographer Diana Matar and novelist Hisham Matar in conversation about disappearance and the pursuit of justice.",
+    "tags": [
+      "talk",
+      "photography",
+      "politics"
+    ],
+    "price": null
+  },
+  {
     "id": "jimi-tenor-band-cafe-oto",
     "title": "Jimi Tenor Band: Two-Day Residency",
     "venue": "Cafe OTO",
@@ -1121,6 +1203,55 @@
       "jazz",
       "funk",
       "electronic"
+    ],
+    "price": null
+  },
+  {
+    "id": "pity-party-ica",
+    "title": "pity party: Michelangelo Miccolis and nick von kleist",
+    "venue": "ICA",
+    "scene": "words",
+    "date": "2026-11-20",
+    "endDate": null,
+    "time": null,
+    "url": "https://www.ica.art/exhibitions/autumn-knight-pity-party",
+    "blurb": "A performance staged alongside Autumn Knight's show. Expect awkwardness as method.",
+    "tags": [
+      "performance",
+      "live-art"
+    ],
+    "price": null
+  },
+  {
+    "id": "girl-walks-home-hitcher-rio",
+    "title": "Category H: A Girl Walks Home Alone at Night + The Hitcher",
+    "venue": "Rio Cinema",
+    "scene": "cinema",
+    "date": "2026-11-20",
+    "endDate": null,
+    "time": null,
+    "url": "https://riocinema.org.uk/Rio.dll/WhatsOn?f=2403298",
+    "blurb": "A Persian-language vampire western chased by Rutger Hauer on the road. Category H does the double bill properly.",
+    "tags": [
+      "horror",
+      "double-bill"
+    ],
+    "price": null
+  },
+  {
+    "id": "filipinana-rio",
+    "title": "Filipiñana + Q&A",
+    "venue": "Rio Cinema",
+    "scene": "cinema",
+    "date": "2026-11-20",
+    "endDate": null,
+    "time": null,
+    "url": "https://riocinema.org.uk/Rio.dll/WhatsOn?f=3122763",
+    "blurb": "Rafael Manuel's slow-burn Philippine golf-course drama, with a Q&A.",
+    "tags": [
+      "philippines",
+      "arthouse",
+      "q-and-a"
     ],
     "price": null
   },
@@ -1192,6 +1323,39 @@
     "price": null
   },
   {
+    "id": "nova-ghost-transmission-cafe-oto",
+    "title": "Nova Ghost Transmission + Ekstasis + Proteus + Katie Shannon",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-11-22",
+    "endDate": null,
+    "time": "19:30",
+    "url": "https://www.cafeoto.co.uk/events/nova-ghost-transmission/",
+    "blurb": "A Sunday bill of transmissions from somewhere slightly off the dial, with Katie Shannon also showing at Goldsmiths CCA this season.",
+    "tags": [
+      "experimental",
+      "electronic",
+      "live"
+    ],
+    "price": "£15 (£13 adv)"
+  },
+  {
+    "id": "edward-said-between-worlds-rio",
+    "title": "London Palestine Film Festival: Edward Said, Between Worlds",
+    "venue": "Rio Cinema",
+    "scene": "cinema",
+    "date": "2026-11-22",
+    "endDate": null,
+    "time": null,
+    "url": "https://riocinema.org.uk/Rio.dll/WhatsOn?f=2928011",
+    "blurb": "Portrait of the critic and thinker, shown as part of the festival.",
+    "tags": [
+      "documentary",
+      "palestine"
+    ],
+    "price": null
+  },
+  {
     "id": "dakhabrakha-union-chapel",
     "title": "DakhaBrakha",
     "venue": "Union Chapel",
@@ -1222,6 +1386,23 @@
       "taiwan",
       "edward-yang",
       "drama"
+    ],
+    "price": null
+  },
+  {
+    "id": "daisies-rio",
+    "title": "Rio Film Feminists: Daisies",
+    "venue": "Rio Cinema",
+    "scene": "cinema",
+    "date": "2026-11-23",
+    "endDate": null,
+    "time": null,
+    "url": "https://riocinema.org.uk/Rio.dll/WhatsOn?f=2967696",
+    "blurb": "Vera Chytilova's Czech New Wave collage of two girls eating the world, and then some.",
+    "tags": [
+      "czech-new-wave",
+      "feminist",
+      "surreal"
     ],
     "price": null
   },
@@ -1311,6 +1492,22 @@
     "price": "£11.50 / £14.50"
   },
   {
+    "id": "short-film-about-love-rio",
+    "title": "Kino Polonia: A Short Film About Love",
+    "venue": "Rio Cinema",
+    "scene": "cinema",
+    "date": "2026-11-24",
+    "endDate": null,
+    "time": null,
+    "url": "https://riocinema.org.uk/Rio.dll/WhatsOn?f=3003051",
+    "blurb": "Kieslowski's Dekalog spin-off about a voyeur and the woman across the courtyard.",
+    "tags": [
+      "polish",
+      "kieslowski"
+    ],
+    "price": null
+  },
+  {
     "id": "tamas-gaskill-book-of-mysteries-london-review-bookshop",
     "title": "Rebecca Tamás & Malcolm Gaskill: The Book of Mysteries",
     "venue": "London Review Bookshop",
@@ -1326,6 +1523,22 @@
       "witchcraft"
     ],
     "price": "£10"
+  },
+  {
+    "id": "on-becoming-screening-talk-ica",
+    "title": "On Becoming: Screening and Talk",
+    "venue": "ICA",
+    "scene": "words",
+    "date": "2026-11-25",
+    "endDate": null,
+    "time": null,
+    "url": "https://www.ica.art/talks/on-becoming-screening-talk",
+    "blurb": "A screening followed by discussion at the ICA.",
+    "tags": [
+      "talk",
+      "film"
+    ],
+    "price": null
   },
   {
     "id": "unsound-london-night-one-ica",
@@ -1377,6 +1590,22 @@
       "interactive"
     ],
     "price": "£16"
+  },
+  {
+    "id": "blade-runner-final-cut-pcc",
+    "title": "Blade Runner: The Final Cut",
+    "venue": "Prince Charles Cinema",
+    "scene": "cinema",
+    "date": "2026-11-26",
+    "endDate": null,
+    "time": "12:45",
+    "url": "https://princecharlescinema.com/seasons-events/blade-runn",
+    "blurb": "Rain, neon and replicants, in the cut Ridley Scott finally approved.",
+    "tags": [
+      "sci-fi",
+      "neo-noir"
+    ],
+    "price": null
   },
   {
     "id": "london-international-animation-festival-barbican",
@@ -1531,6 +1760,23 @@
     "price": null
   },
   {
+    "id": "lambchop-night-two-union-chapel",
+    "title": "An Evening with Lambchop: Night Two",
+    "venue": "Union Chapel",
+    "scene": "music",
+    "date": "2026-11-28",
+    "endDate": null,
+    "time": "19:00",
+    "url": "https://unionchapel.org.uk/whats-on/an-evening-with-lambchop-night-two",
+    "blurb": "Kurt Wagner and company make slow, wry, beautifully wrecked country-soul under a pitched roof. Second of two nights.",
+    "tags": [
+      "alt-country",
+      "songwriting",
+      "live"
+    ],
+    "price": null
+  },
+  {
     "id": "jennifer-walshe-tomomi-adachi-cafe-oto",
     "title": "Jennifer Walshe / Tomomi Adachi + Jackson Burton",
     "venue": "Cafe OTO",
@@ -1548,6 +1794,73 @@
     "price": "£16"
   },
   {
+    "id": "summer-of-soul-rio",
+    "title": "Fashion in Film: Summer of Soul",
+    "venue": "Rio Cinema",
+    "scene": "cinema",
+    "date": "2026-11-30",
+    "endDate": null,
+    "time": null,
+    "url": "https://riocinema.org.uk/Rio.dll/WhatsOn?f=3032684",
+    "blurb": "Questlove's Harlem Cultural Festival film, viewed through its clothes.",
+    "tags": [
+      "documentary",
+      "music",
+      "fashion"
+    ],
+    "price": null
+  },
+  {
+    "id": "merry-christmas-mr-lawrence-pcc",
+    "title": "Merry Christmas, Mr. Lawrence",
+    "venue": "Prince Charles Cinema",
+    "scene": "cinema",
+    "date": "2026-11-30",
+    "endDate": null,
+    "time": "18:00",
+    "url": "https://princecharlescinema.com/seasons-events/nagisashi",
+    "blurb": "Oshima's POW camp drama with Bowie and Ryuichi Sakamoto, scored by the latter.",
+    "tags": [
+      "oshima",
+      "bowie",
+      "japanese"
+    ],
+    "price": null
+  },
+  {
+    "id": "lethal-weapon-alt-xmas-pcc",
+    "title": "Lethal Weapon",
+    "venue": "Prince Charles Cinema",
+    "scene": "cinema",
+    "date": "2026-11-30",
+    "endDate": null,
+    "time": "20:30",
+    "url": "https://princecharlescinema.com/seasons-events/altxmas",
+    "blurb": "Alt. Xmas: a Christmas film in which things explode.",
+    "tags": [
+      "christmas",
+      "action"
+    ],
+    "price": null
+  },
+  {
+    "id": "long-day-closes-funeral-parade-pcc",
+    "title": "Funeral Parade presents The Long Day Closes",
+    "venue": "Prince Charles Cinema",
+    "scene": "cinema",
+    "date": "2026-12-01",
+    "endDate": null,
+    "time": "18:15",
+    "url": "https://princecharlescinema.com/seasons-events/queer-film",
+    "blurb": "Terence Davies' sublime memory-film of 1950s Liverpool, via the Funeral Parade queer film society.",
+    "tags": [
+      "terence-davies",
+      "queer",
+      "british"
+    ],
+    "price": null
+  },
+  {
     "id": "jean-francois-stevenin-season-ica",
     "title": "Jean-Francois Stevenin: Jurassic Man",
     "venue": "ICA",
@@ -1561,6 +1874,22 @@
       "director-season",
       "french",
       "rare"
+    ],
+    "price": null
+  },
+  {
+    "id": "tale-of-winter-pcc",
+    "title": "A Tale of Winter",
+    "venue": "Prince Charles Cinema",
+    "scene": "cinema",
+    "date": "2026-12-03",
+    "endDate": null,
+    "time": "18:15",
+    "url": "https://princecharlescinema.com/seasons-events/ericrohmer",
+    "blurb": "Rohmer's romance of missed connections and stubborn faith.",
+    "tags": [
+      "rohmer",
+      "french"
     ],
     "price": null
   },
