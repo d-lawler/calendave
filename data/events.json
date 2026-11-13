@@ -446,57 +446,6 @@
     "price": null
   },
   {
-    "id": "sagome-029-cafe-oto",
-    "title": "SAGOME 029: Love Songs + Regina Collage + Stella Z",
-    "venue": "Cafe OTO",
-    "scene": "music",
-    "date": "2026-11-11",
-    "endDate": null,
-    "time": "19:30",
-    "url": "https://www.cafeoto.co.uk/events/sagome-029/",
-    "blurb": "The Sagome series returns with two live sets and a DJ to close.",
-    "tags": [
-      "electronic",
-      "experimental",
-      "live"
-    ],
-    "price": "£17 (£15 adv)"
-  },
-  {
-    "id": "diane-williams-lucie-elven-lrb",
-    "title": "Diane Williams & Lucie Elven: I Liked Rex",
-    "venue": "London Review Bookshop",
-    "scene": "words",
-    "date": "2026-11-11",
-    "endDate": null,
-    "time": "19:00",
-    "url": "https://www.eventbrite.co.uk/e/diane-williams-lucie-elven-i-liked-rex-tickets-2002536137494",
-    "blurb": "American master of the weirdly compressed short story in conversation with Lucie Elven. Sentences that bend at the corners.",
-    "tags": [
-      "short-stories",
-      "fiction",
-      "reading"
-    ],
-    "price": "£10"
-  },
-  {
-    "id": "in-the-mood-for-love-pcc",
-    "title": "In the Mood for Love",
-    "venue": "Prince Charles Cinema",
-    "scene": "cinema",
-    "date": "2026-11-11",
-    "endDate": null,
-    "time": "20:50",
-    "url": "https://princecharlescinema.com/seasons-events/wong-kar-w",
-    "blurb": "Wong Kar-wai's two neighbours, one cigarette haze and several thousand lingering glances. Part of the Wong Kar Wai season.",
-    "tags": [
-      "wong-kar-wai",
-      "romance",
-      "hong-kong"
-    ],
-    "price": null
-  },
-  {
     "id": "pereda-season-ica",
     "title": "Between the Lines: Films by Nicolás Pereda",
     "venue": "ICA",
@@ -514,23 +463,6 @@
     "price": null
   },
   {
-    "id": "lisa-robertson-iain-sinclair-riverwork-london-review-bookshop",
-    "title": "Lisa Robertson & Iain Sinclair: Riverwork",
-    "venue": "London Review Bookshop",
-    "scene": "words",
-    "date": "2026-11-12",
-    "endDate": null,
-    "time": "19:00",
-    "url": "https://www.eventbrite.co.uk/e/lisa-robertson-iain-sinclair-riverwork-tickets-2002711560188",
-    "blurb": "The Canadian poet of weather and cities meets London's chief psychogeographer. Expect digressions about water.",
-    "tags": [
-      "poetry",
-      "talk",
-      "psychogeography"
-    ],
-    "price": "£10"
-  },
-  {
     "id": "roger-corman-centenary-bfi-southbank",
     "title": "Movie Maverick: 100 Years of Roger Corman",
     "venue": "BFI Southbank",
@@ -545,106 +477,6 @@
       "cult",
       "horror",
       "b-movie"
-    ],
-    "price": null
-  },
-  {
-    "id": "rr-sherelle-carpet-shop",
-    "title": "R&R by SHERELLE",
-    "venue": "The Carpet Shop",
-    "scene": "music",
-    "date": "2026-11-12",
-    "endDate": null,
-    "time": "22:00",
-    "url": "https://app.discotech.me/events/38280462-rr-by-sherelle-the-carpet-shop-at-the-carpet-shop",
-    "blurb": "SHERELLE's new Thursday series: expect footwork, jungle and 160bpm everything from the fastest hands in London. Early tickets were £10.",
-    "tags": [
-      "club",
-      "footwork",
-      "jungle"
-    ],
-    "price": "£10"
-  },
-  {
-    "id": "serious-pleasures-stephen-tennant-viktor-wynd-museum",
-    "title": "Serious Pleasures: The Life of Stephen Tennant, book launch",
-    "venue": "Viktor Wynd Museum",
-    "scene": "words",
-    "date": "2026-11-12",
-    "endDate": null,
-    "time": "18:00",
-    "url": "https://thelasttuesdaysociety.org/exhibition/serious-pleasures-the-life-of-stephen-tennant-by-philip-hoare-book-launch/",
-    "blurb": "Philip Hoare relaunches his biography of the brightest of the Bright Young Things, the man who stayed in bed. Doubles as the opening of a show of Tennant's own art and ephemera.",
-    "tags": [
-      "book-launch",
-      "biography",
-      "exhibition-opening"
-    ],
-    "price": null
-  },
-  {
-    "id": "space-5-cafe-oto",
-    "title": "SPACE 5: Barthel / Maggiore, Murayama / Schmid, Joan-Miller / Berwick + Regan Bowering",
-    "venue": "Cafe OTO",
-    "scene": "music",
-    "date": "2026-11-12",
-    "endDate": null,
-    "time": "19:30",
-    "url": "https://www.cafeoto.co.uk/events/space-5/",
-    "blurb": "Three duos and a solo piece of European free improvisation. Quiet, exacting, occasionally prickly.",
-    "tags": [
-      "improv",
-      "free-improvisation"
-    ],
-    "price": "£14 (£12 adv)"
-  },
-  {
-    "id": "have-a-gd-trip-double-pcc",
-    "title": "Have A Gd Trip double feature",
-    "venue": "Prince Charles Cinema",
-    "scene": "cinema",
-    "date": "2026-11-12",
-    "endDate": null,
-    "time": "21:00",
-    "url": "https://princecharlescinema.com/seasons-events/marathons",
-    "blurb": "A late double bill from the PCC's Marathons, Double & Triple Features strand. Bring snacks and a loose grip on the evening.",
-    "tags": [
-      "double-feature",
-      "late-night",
-      "marathon"
-    ],
-    "price": "£20"
-  },
-  {
-    "id": "love-witch-pcc",
-    "title": "The Love Witch with intro",
-    "venue": "Prince Charles Cinema",
-    "scene": "cinema",
-    "date": "2026-11-12",
-    "endDate": null,
-    "time": "18:15",
-    "url": "https://princecharlescinema.com/seasons-events/qaintro",
-    "blurb": "Anna Biller's Technicolor homage to 60s occult pulp, all pastel hexes and lethal seduction. Screening with an intro.",
-    "tags": [
-      "35mm-look",
-      "occult",
-      "female-filmmakers"
-    ],
-    "price": null
-  },
-  {
-    "id": "angels-egg-pcc",
-    "title": "Angel's Egg",
-    "venue": "Prince Charles Cinema",
-    "scene": "cinema",
-    "date": "2026-11-12",
-    "endDate": null,
-    "time": "12:00",
-    "url": "https://princecharlescinema.com/seasons-events/anime",
-    "blurb": "Mamoru Oshii's hushed, rain-soaked anime fable, short on plot and long on dread.",
-    "tags": [
-      "anime",
-      "arthouse"
     ],
     "price": null
   },
@@ -1508,6 +1340,23 @@
     "price": null
   },
   {
+    "id": "okse-oto",
+    "title": "ØKSE: Savannah Harris, Mette Rasmussen, Val Jeanty, Petter Eldh",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-11-24",
+    "endDate": null,
+    "time": "19:30",
+    "url": "https://www.cafeoto.co.uk/events/okse/",
+    "blurb": "Experimental jazz supergroup with drums, sax, electronics and bass-plus-sampler. Improvisation with a hip-hop lean.",
+    "tags": [
+      "jazz",
+      "improv",
+      "electronics"
+    ],
+    "price": "£20 (£18 adv)"
+  },
+  {
     "id": "tamas-gaskill-book-of-mysteries-london-review-bookshop",
     "title": "Rebecca Tamás & Malcolm Gaskill: The Book of Mysteries",
     "venue": "London Review Bookshop",
@@ -1539,6 +1388,23 @@
       "film"
     ],
     "price": null
+  },
+  {
+    "id": "strangeness-of-jazz-oto",
+    "title": "Strangeness of Jazz with Edward George and Mariam Rezaei: Cecil",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-11-25",
+    "endDate": null,
+    "time": "19:30",
+    "url": "https://www.cafeoto.co.uk/events/strangeness-of-jazz-november-26/",
+    "blurb": "The monthly listening session for jazz at its most peculiar, this time devoted to Cecil.",
+    "tags": [
+      "jazz",
+      "listening",
+      "talk"
+    ],
+    "price": "£14 (£12 adv)"
   },
   {
     "id": "unsound-london-night-one-ica",
@@ -1606,6 +1472,23 @@
       "neo-noir"
     ],
     "price": null
+  },
+  {
+    "id": "46000-fibres-oto",
+    "title": "Infinite Expanse presents: 46,000 Fibres + Megabasse + Alex Howard",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-11-26",
+    "endDate": null,
+    "time": "19:30",
+    "url": "https://www.cafeoto.co.uk/events/infinite-expanse-46000-fibres/",
+    "blurb": "An Infinite Expanse bill of drone and electronic texture. Bring ear protection and patience.",
+    "tags": [
+      "electronic",
+      "experimental",
+      "drone"
+    ],
+    "price": "£20 (£17 adv)"
   },
   {
     "id": "london-international-animation-festival-barbican",
@@ -1690,6 +1573,23 @@
       "late-night"
     ],
     "price": null
+  },
+  {
+    "id": "lewis-x-lewis-oto",
+    "title": "LEWIS x LEWIS: Klara Lewis / Nik Colk Void + Graham Lewis trio",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-11-27",
+    "endDate": null,
+    "time": "19:30",
+    "url": "https://www.cafeoto.co.uk/events/lewis-x-lewis/",
+    "blurb": "Two Lewis projects in one night: Klara Lewis with Nik Colk Void, then Wire's Graham Lewis in a trio with Margaret Fiedler McGinnis and Kenichi Iwasa.",
+    "tags": [
+      "electronic",
+      "post-punk",
+      "experimental"
+    ],
+    "price": "£19 (£17 adv)"
   },
   {
     "id": "sonic-cinema-daichi-saito-ica",
@@ -1777,6 +1677,40 @@
     "price": null
   },
   {
+    "id": "mushaira-oto",
+    "title": "the87press present Mushaira: Nathaniel Mackey (online) + Elaine Mitchener + more",
+    "venue": "Cafe OTO",
+    "scene": "words",
+    "date": "2026-11-28",
+    "endDate": null,
+    "time": "19:30",
+    "url": "https://www.cafeoto.co.uk/events/the87press-present-mushaira-nov-26/",
+    "blurb": "An evening of poetry and sound with Nathaniel Mackey beaming in, Elaine Mitchener live and a pop-up kitchen. Poetry with a rhythm section of opinions.",
+    "tags": [
+      "poetry",
+      "jazz",
+      "performance"
+    ],
+    "price": "£12 (£10 adv)"
+  },
+  {
+    "id": "quality-sounds-oto",
+    "title": "Quality Sounds Ltd: Loraine James + Ecka Mordecai + The Sleeves",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-11-29",
+    "endDate": null,
+    "time": "19:30",
+    "url": "https://www.cafeoto.co.uk/events/quality-sounds-ltd/",
+    "blurb": "Loraine James brings her fractured, tender electronics to a Quality Sounds bill, with Ecka Mordecai and The Sleeves in support.",
+    "tags": [
+      "electronic",
+      "idm",
+      "experimental"
+    ],
+    "price": "£19 (£17 adv)"
+  },
+  {
     "id": "jennifer-walshe-tomomi-adachi-cafe-oto",
     "title": "Jennifer Walshe / Tomomi Adachi + Jackson Burton",
     "venue": "Cafe OTO",
@@ -1861,6 +1795,23 @@
     "price": null
   },
   {
+    "id": "hodgkinson-kamura-oto",
+    "title": "Tim Hodgkinson & Atsuko Kamura with Eddie Prévost, Zheng Hao + Zhuyang Liu",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-12-01",
+    "endDate": null,
+    "time": "19:30",
+    "url": "https://www.cafeoto.co.uk/events/tim-hodgkinson-atsuko-kamura/",
+    "blurb": "The Henry Cow founder meets AMM's Eddie Prévost and friends for a night of improvisation across generations.",
+    "tags": [
+      "improv",
+      "avant-rock",
+      "experimental"
+    ],
+    "price": "£16 (£14 adv)"
+  },
+  {
     "id": "jean-francois-stevenin-season-ica",
     "title": "Jean-Francois Stevenin: Jurassic Man",
     "venue": "ICA",
@@ -1894,6 +1845,40 @@
     "price": null
   },
   {
+    "id": "grain-suzueri-oto",
+    "title": "GRAIN presents: suzueri + Crosspiece",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-12-03",
+    "endDate": null,
+    "time": "19:30",
+    "url": "https://www.cafeoto.co.uk/events/grain-presents-suzueri-crosspiece/",
+    "blurb": "A GRAIN double bill of small, strange electronic and improvised sound.",
+    "tags": [
+      "experimental",
+      "electronic",
+      "improv"
+    ],
+    "price": "£14 (£12 adv)"
+  },
+  {
+    "id": "lips-to-moon-oto",
+    "title": "From the Lips to the Moon",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-12-04",
+    "endDate": null,
+    "time": "19:30",
+    "url": "https://www.cafeoto.co.uk/events/from-the-lips-to-the-moon-dec-26/",
+    "blurb": "A five-piece of voices, keys, bass and electronics: Maddalena Ghezzi, Maria Chiara Argirò, Ruth Goller, Pouya Ehsaei and Tara Fatehi.",
+    "tags": [
+      "jazz",
+      "improv",
+      "vocals"
+    ],
+    "price": "£16 (£14 adv)"
+  },
+  {
     "id": "lord-of-the-rings-trilogy-35mm-pcc",
     "title": "The Lord of the Rings Trilogy [Theatrical Editions] on 35mm",
     "venue": "Prince Charles Cinema",
@@ -1911,6 +1896,23 @@
     "price": "from £20"
   },
   {
+    "id": "syfkhan-oto",
+    "title": "Mohammad Syfkhan: I Love You Ireland album release",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-12-05",
+    "endDate": null,
+    "time": "19:30",
+    "url": "https://www.cafeoto.co.uk/events/mohammad-syfkhan-i-love-you-ireland/",
+    "blurb": "Kurdish saz virtuoso launches an album with a title that wins the week.",
+    "tags": [
+      "folk",
+      "world",
+      "album-launch"
+    ],
+    "price": "£20 (£17 adv)"
+  },
+  {
     "id": "makers-market-ica",
     "title": "Makers Market",
     "venue": "ICA",
@@ -1926,6 +1928,23 @@
       "print"
     ],
     "price": null
+  },
+  {
+    "id": "winter-fair-oto",
+    "title": "Cafe OTO Winter Fair",
+    "venue": "Cafe OTO",
+    "scene": "words",
+    "date": "2026-12-06",
+    "endDate": null,
+    "time": "11:00",
+    "url": "https://www.cafeoto.co.uk/events/cafe-oto-winter-fair/",
+    "blurb": "The annual OTO fair: records, gifts and the usual suspects, 11am to 6pm.",
+    "tags": [
+      "fair",
+      "records",
+      "market"
+    ],
+    "price": "free"
   },
   {
     "id": "gothique-dracula-kim-newman-cinema-museum",
@@ -1961,6 +1980,23 @@
       "christmas"
     ],
     "price": "from £20"
+  },
+  {
+    "id": "company-2026-oto",
+    "title": "COMPANY 2026 (for Derek Bailey)",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-12-13",
+    "endDate": "2026-12-14",
+    "time": "19:30",
+    "url": "https://www.cafeoto.co.uk/events/company-2026-for-derek-bailey/",
+    "blurb": "Derek Bailey's ad-hoc improvising collective revived for two nights, with John Butcher, Alexander Hawkins, Mark Wastell and others, and Stewart Lee as compère.",
+    "tags": [
+      "improv",
+      "free-improvisation",
+      "tribute"
+    ],
+    "price": "£20 (£18 adv)"
   },
   {
     "id": "2001-a-space-odyssey-70mm-pcc",
