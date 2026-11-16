@@ -463,75 +463,6 @@
     "price": null
   },
   {
-    "id": "roger-corman-centenary-bfi-southbank",
-    "title": "Movie Maverick: 100 Years of Roger Corman",
-    "venue": "BFI Southbank",
-    "scene": "cinema",
-    "date": "2026-11-12",
-    "endDate": "2026-11-14",
-    "time": null,
-    "url": "https://whatson.bfi.org.uk/Online/default.asp?BOparam::WScontent::loadArticle::permalink=roger-corman",
-    "blurb": "Centenary season for the king of the B picture: Poe cycle, Little Shop of Horrors, The Trip. Julie, Catherine and Mary Corman introduce screenings across the 12 to 14 Nov weekend.",
-    "tags": [
-      "director-season",
-      "cult",
-      "horror",
-      "b-movie"
-    ],
-    "price": null
-  },
-  {
-    "id": "dollhouse-nisemono-new-river",
-    "title": "Dollhouse, Nisemono, Secrecy, Sublux",
-    "venue": "New River Studios",
-    "scene": "music",
-    "date": "2026-11-13",
-    "endDate": null,
-    "time": "19:30",
-    "url": "https://newriverstudios.com/event/dollhouse-nisemono-secrecy-sublux/",
-    "blurb": "Four-band underground bill, heavy on feedback.",
-    "tags": [
-      "punk",
-      "noise",
-      "diy"
-    ],
-    "price": null
-  },
-  {
-    "id": "dudu-kouate-ernst-reijseger-cafe-oto",
-    "title": "Dudú Kouaté & Ernst Reijseger, solos and duo",
-    "venue": "Cafe OTO",
-    "scene": "music",
-    "date": "2026-11-13",
-    "endDate": null,
-    "time": "19:30",
-    "url": "https://www.cafeoto.co.uk/events/dudu-kouate-ernst-reijseger/",
-    "blurb": "Senegalese percussionist meets the Dutch cellist who scored Herzog, in solos and a duo set. Expect more conversation than showboating.",
-    "tags": [
-      "world",
-      "improv",
-      "cello"
-    ],
-    "price": "£20 (£18 adv)"
-  },
-  {
-    "id": "the-time-masters-pcc",
-    "title": "The Time Masters",
-    "venue": "Prince Charles Cinema",
-    "scene": "cinema",
-    "date": "2026-11-13",
-    "endDate": null,
-    "time": "18:20",
-    "url": "https://princecharlescinema.com/seasons-events/renlaloux",
-    "blurb": "René Laloux's psychedelic French animated sci-fi, from his three-film season. Moebius designs, fever-dream plotting.",
-    "tags": [
-      "animation",
-      "sci-fi",
-      "laloux"
-    ],
-    "price": null
-  },
-  {
     "id": "london-palestine-film-festival-barbican",
     "title": "London Palestine Film Festival 2026",
     "venue": "Barbican Cinema",
@@ -545,245 +476,6 @@
       "festival",
       "palestine",
       "documentary"
-    ],
-    "price": null
-  },
-  {
-    "id": "homoelectric-venue-mot",
-    "title": "HomoElectric",
-    "venue": "Venue MOT",
-    "scene": "music",
-    "date": "2026-11-14",
-    "endDate": null,
-    "time": null,
-    "url": "https://songkick.com/concerts/43464460-homoelectric-at-venue-mot",
-    "blurb": "Manchester's long-running queer mixed party brings its disco-to-acid, anyone-welcome ethos down Surrey Canal Road.",
-    "tags": [
-      "club",
-      "queer",
-      "disco"
-    ],
-    "price": null
-  },
-  {
-    "id": "silent-laughter-weekend-cinema-museum",
-    "title": "Kennington Bioscope Silent Laughter Weekend 2026",
-    "venue": "The Cinema Museum",
-    "scene": "cinema",
-    "date": "2026-11-14",
-    "endDate": "2026-11-15",
-    "time": null,
-    "url": "https://cinemamuseum.org.uk/scheduled/silent-weekend-2026/",
-    "blurb": "Two days of silent comedy with live accompaniment, from Max Linder UK premieres to a 28mm projector show, ending with Keaton's The General at 100.",
-    "tags": [
-      "silent",
-      "live-score",
-      "archive",
-      "kennington-bioscope",
-      "festival"
-    ],
-    "price": "£8 to £35"
-  },
-  {
-    "id": "lord-mayors-show-city-of-london",
-    "title": "The Lord Mayor's Show",
-    "venue": "Mansion House to Royal Courts of Justice",
-    "scene": "words",
-    "date": "2026-11-14",
-    "endDate": null,
-    "time": "11:00",
-    "url": "https://lordmayorsshow.london/",
-    "blurb": "An 800 year old procession in which a new Lord Mayor rides a golden coach to swear loyalty to the Crown. Livery companies, giants and pikemen included, free from the kerb.",
-    "tags": [
-      "folk-custom",
-      "procession",
-      "city-of-london"
-    ],
-    "price": "free"
-  },
-  {
-    "id": "phantom-of-the-opera-live-score-garden-cinema",
-    "title": "The Phantom of the Opera + Live Score",
-    "venue": "The Garden Cinema",
-    "scene": "cinema",
-    "date": "2026-11-14",
-    "endDate": null,
-    "time": "18:15",
-    "url": "https://www.thegardencinema.co.uk/film/the-phantom-of-the-opera-live-score/",
-    "blurb": "Lon Chaney's 1925 unmasking with a new score played live by Andrew Wasylyk and Tommy Perman. Sold out; members' waiting list.",
-    "tags": [
-      "live-score",
-      "silent",
-      "sold-out"
-    ],
-    "price": null
-  },
-  {
-    "id": "unhomed-unravelled-shephali-frost-hundred-years-gallery",
-    "title": "Unhomed/Unravelled: Shephali Frost, Poetry & Song",
-    "venue": "Hundred Years Gallery",
-    "scene": "music",
-    "date": "2026-11-14",
-    "endDate": null,
-    "time": "20:00",
-    "url": "https://events.musicofourdesire.com/event/xt7g-unhomed-unravelled-shephali-frost-poetry-song-live-london-united-kingdom",
-    "blurb": "Poetry and South Asian song on memory and migration, set loose among Mark Hewins' electric guitar, Adrian Northover's soprano sax and Ansuman Biswas on percussion.",
-    "tags": [
-      "improv",
-      "poetry",
-      "free-jazz"
-    ],
-    "price": "£13"
-  },
-  {
-    "id": "offsite-show-rowden-tosswill-cafe-oto",
-    "title": "OFFSITE SHOW: Zach Rowden + Lauren Tosswill + Rory Salter / Caius Williams / Regan Bowering + Vicky Sparrow",
-    "venue": "Cafe OTO",
-    "scene": "music",
-    "date": "2026-11-14",
-    "endDate": null,
-    "time": "14:00",
-    "url": "https://www.cafeoto.co.uk/events/offsite-show-zach-rowden-rory-salter-caius-william/",
-    "blurb": "An afternoon of improvised pairings and solos, programmed by OTO but staged elsewhere. Double bass, voice and objects, with no one told what to expect.",
-    "tags": [
-      "improv",
-      "experimental",
-      "matinee"
-    ],
-    "price": "£12 (£10 adv)"
-  },
-  {
-    "id": "maxine-funke-cafe-oto",
-    "title": "Maxine Funke + Clayton Noone + Time Is Away (DJ)",
-    "venue": "Cafe OTO",
-    "scene": "music",
-    "date": "2026-11-14",
-    "endDate": null,
-    "time": "19:30",
-    "url": "https://www.cafeoto.co.uk/events/maxine-funke/",
-    "blurb": "A Saturday night of hushed, home-recorded songcraft from Maxine Funke, with Clayton Noone and a DJ set to see everyone out.",
-    "tags": [
-      "songwriting",
-      "experimental",
-      "dj"
-    ],
-    "price": "£19 (£17 adv)"
-  },
-  {
-    "id": "fargo-neo-noirvember-pcc",
-    "title": "Fargo",
-    "venue": "Prince Charles Cinema",
-    "scene": "cinema",
-    "date": "2026-11-14",
-    "endDate": null,
-    "time": "18:20",
-    "url": "https://princecharlescinema.com/seasons-events/neonoir",
-    "blurb": "Snow, wood chippers and Minnesotan politeness, as part of Neo-Noirvember.",
-    "tags": [
-      "neo-noir",
-      "coens"
-    ],
-    "price": null
-  },
-  {
-    "id": "dave-okumu-friends-union-chapel",
-    "title": "Dave Okumu & Friends",
-    "venue": "Union Chapel",
-    "scene": "music",
-    "date": "2026-11-15",
-    "endDate": null,
-    "time": "18:30",
-    "url": "https://unionchapel.org.uk/whats-on/dave-okumu-friends",
-    "blurb": "The Invisible guitarist and sought-after collaborator gathers friends under the stained glass. Billing is coy, so expect a night of guests and left turns.",
-    "tags": [
-      "art-pop",
-      "guitar",
-      "collaboration"
-    ],
-    "price": null
-  },
-  {
-    "id": "mexican-confluences-pina-para-la-nina-cafe-oto",
-    "title": "Unpredictable presents: Mexican Confluences feat. Piña para la Niña",
-    "venue": "Cafe OTO",
-    "scene": "music",
-    "date": "2026-11-15",
-    "endDate": null,
-    "time": "19:30",
-    "url": "https://www.cafeoto.co.uk/events/unpredictable-presents-mexican-confluences/",
-    "blurb": "Unpredictable's Sunday bulletin from the Mexico City underground, led by Piña para la Niña. Expect folk forms bent well out of shape.",
-    "tags": [
-      "experimental",
-      "mexico",
-      "live"
-    ],
-    "price": "£15 (£12 adv)"
-  },
-  {
-    "id": "basquiat-preview-barbican",
-    "title": "Preview: Jean-Michel Basquiat",
-    "venue": "Barbican Cinema",
-    "scene": "cinema",
-    "date": "2026-11-15",
-    "endDate": null,
-    "time": "17:45",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/preview-jean-michel-basquiat-15",
-    "blurb": "An advance look at a new film on the painter who turned scrawl into currency.",
-    "tags": [
-      "documentary",
-      "art",
-      "preview"
-    ],
-    "price": null
-  },
-  {
-    "id": "ica-archive-sale",
-    "title": "ICA Archive Sale",
-    "venue": "ICA",
-    "scene": "words",
-    "date": "2026-11-15",
-    "endDate": null,
-    "time": null,
-    "url": "https://www.ica.art/bookshop/ica-archive-sale",
-    "blurb": "The bookshop clears out the back catalogue: old catalogues, posters and printed matter at rummage prices.",
-    "tags": [
-      "books",
-      "archive",
-      "sale"
-    ],
-    "price": null
-  },
-  {
-    "id": "devils-loose-willis-rio",
-    "title": "Loose Willis presents: The Devils",
-    "venue": "Rio Cinema",
-    "scene": "cinema",
-    "date": "2026-11-15",
-    "endDate": null,
-    "time": null,
-    "url": "https://riocinema.org.uk/Rio.dll/WhatsOn?f=3002852",
-    "blurb": "Ken Russell's possessed-nuns freakout gets a club-night treatment in Dalston.",
-    "tags": [
-      "horror",
-      "ken-russell",
-      "cult"
-    ],
-    "price": null
-  },
-  {
-    "id": "labyrinth-40th-pcc",
-    "title": "Labyrinth: 40th Anniversary",
-    "venue": "Prince Charles Cinema",
-    "scene": "cinema",
-    "date": "2026-11-15",
-    "endDate": null,
-    "time": "12:15",
-    "url": "https://princecharlescinema.com/seasons-events/musicmovie",
-    "blurb": "Bowie in tight trousers and a very good wig, forty years on.",
-    "tags": [
-      "bowie",
-      "fantasy",
-      "anniversary"
     ],
     "price": null
   },
@@ -1237,6 +929,23 @@
       "surreal"
     ],
     "price": null
+  },
+  {
+    "id": "kologo-shabaka-oto",
+    "title": "Kologo + Shabaka + Dan Nicholls + drums (two names withheld)",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-11-23",
+    "endDate": null,
+    "time": "19:30",
+    "url": "https://www.cafeoto.co.uk/events/23-nov-26/",
+    "blurb": "A Ghanaian kologo player returns to OTO with Shabaka on flute and sax, Dan Nicholls on keys and a drummer, two of the names kept secret for contractual reasons. A mystery bill on a Monday, which is rather the point.",
+    "tags": [
+      "jazz",
+      "west-african",
+      "improvisation"
+    ],
+    "price": "£20 (£18 adv)"
   },
   {
     "id": "sonic-support-eco-abbas-zahedi-studio-voltaire",
