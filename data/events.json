@@ -496,56 +496,6 @@
     "price": "£11.50"
   },
   {
-    "id": "kraaklings-cafe-oto",
-    "title": "KRAAKLINGS: Horacio Pollard + Venediktos Tempelboom + Kiara Govaert",
-    "venue": "Cafe OTO",
-    "scene": "music",
-    "date": "2026-11-16",
-    "endDate": null,
-    "time": "19:30",
-    "url": "https://www.cafeoto.co.uk/events/kraaklings/",
-    "blurb": "Infant Tree and KRAAK team up for a Monday of new experimental sound from three artists on the label's radar.",
-    "tags": [
-      "experimental",
-      "electronics",
-      "kraak"
-    ],
-    "price": "£14 (£12 adv)"
-  },
-  {
-    "id": "taxi-driver-pcc",
-    "title": "Taxi Driver",
-    "venue": "Prince Charles Cinema",
-    "scene": "cinema",
-    "date": "2026-11-16",
-    "endDate": null,
-    "time": "14:50",
-    "url": "https://princecharlescinema.com/seasons-events/scorsese",
-    "blurb": "Scorsese and De Niro in a fever of New York grime.",
-    "tags": [
-      "scorsese",
-      "neo-noir"
-    ],
-    "price": null
-  },
-  {
-    "id": "sam-gendel-sam-wilkes-union-chapel",
-    "title": "Sam Gendel & Sam Wilkes",
-    "venue": "Union Chapel",
-    "scene": "music",
-    "date": "2026-11-17",
-    "endDate": null,
-    "time": "18:30",
-    "url": "https://unionchapel.org.uk/whats-on/sam-gendel-sam-wilkes",
-    "blurb": "Gendel's processed, sighing sax and Wilkes' elastic bass drifting through half-remembered standards. Should sound otherworldly under the chapel's dome.",
-    "tags": [
-      "jazz",
-      "ambient",
-      "duo"
-    ],
-    "price": null
-  },
-  {
     "id": "film-london-jarman-award-2026-whitechapel",
     "title": "The Film London Jarman Award 2026",
     "venue": "Whitechapel Gallery",
@@ -561,23 +511,6 @@
       "prize"
     ],
     "price": "free"
-  },
-  {
-    "id": "robyns-rocket-jazz-festival-cafe-oto",
-    "title": "Robyn's Rocket + Little Kali + ATMoss",
-    "venue": "Cafe OTO",
-    "scene": "music",
-    "date": "2026-11-17",
-    "endDate": null,
-    "time": "19:30",
-    "url": "https://www.cafeoto.co.uk/events/efg-london-jazz-festival-robyns-rocket/",
-    "blurb": "A London Jazz Festival night with Laura Jurd and Robyn Rocket plus live visuals from Rucksack Cinema and Jade. Jazz, but with the lights doing things.",
-    "tags": [
-      "jazz",
-      "audiovisual",
-      "electronics"
-    ],
-    "price": "£15 (£12 WeGotTickets)"
   },
   {
     "id": "grouper-residency-cafe-oto",
@@ -1656,6 +1589,57 @@
     "price": "free"
   },
   {
+    "id": "winter-fair-afters-oto",
+    "title": "Winter Fair Afters Bar w/ The Sprigs + guests",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-12-06",
+    "endDate": null,
+    "time": "19:30",
+    "url": "https://www.cafeoto.co.uk/events/winter-fair-afters-bar-w-the-sprigs/",
+    "blurb": "Free entry once the stalls are packed away, with The Sprigs holding court in the bar. A gentle comedown from a day of record shopping.",
+    "tags": [
+      "bar",
+      "live",
+      "free"
+    ],
+    "price": "free"
+  },
+  {
+    "id": "charles-hayward-residency-oto",
+    "title": "Charles Hayward: Two-Day Residency",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-12-07",
+    "endDate": "2026-12-08",
+    "time": null,
+    "url": "https://www.cafeoto.co.uk/events/charles-hayward-two-day-residency/",
+    "blurb": "Two nights with the drummer of This Heat and Quiet Sun, who is rarely predictable twice running. Check the page for the pairings.",
+    "tags": [
+      "improv",
+      "drums",
+      "residency"
+    ],
+    "price": null
+  },
+  {
+    "id": "ahmed-residency-oto",
+    "title": "Ahmed: Four-Day Residency",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-12-09",
+    "endDate": "2026-12-12",
+    "time": null,
+    "url": "https://www.cafeoto.co.uk/events/ahmed-four-day-residency-26/",
+    "blurb": "Pat Thomas, Antonin Gerbal, Joel Grip and Seymour Wright across four consecutive nights. Improvised jazz with a serious rhythm section and no obvious escape routes.",
+    "tags": [
+      "free-jazz",
+      "improv",
+      "residency"
+    ],
+    "price": null
+  },
+  {
     "id": "gothique-dracula-kim-newman-cinema-museum",
     "title": "Gothique: Dracula (1973) + They Have Changed Their Face, intro by Kim Newman",
     "venue": "The Cinema Museum",
@@ -1691,6 +1675,40 @@
     "price": "from £20"
   },
   {
+    "id": "curved-pitch-taresa-oto",
+    "title": "Curved Pitch presents: Taresa Fernandes, I Hope You Change",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-12-12",
+    "endDate": null,
+    "time": "14:00",
+    "url": "https://www.cafeoto.co.uk/events/curved-pitch-presents-taresa-fernandes/",
+    "blurb": "An afternoon LP listening session with film and conversation hosted by Elisa Tavares. Free, but book ahead.",
+    "tags": [
+      "listening",
+      "film",
+      "talk"
+    ],
+    "price": "free"
+  },
+  {
+    "id": "marginal-consort-oto",
+    "title": "LCMF 2026: Marginal Consort",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-12-12",
+    "endDate": null,
+    "time": "19:00",
+    "url": "https://www.cafeoto.co.uk/events/offsite-marginal-consort/",
+    "blurb": "The London Contemporary Music Festival offsite brings Marginal Consort to OTO. Long-running improvising collective, tickets via Ticket Tailor.",
+    "tags": [
+      "experimental",
+      "industrial",
+      "festival"
+    ],
+    "price": "£27 (£15 members)"
+  },
+  {
     "id": "company-2026-oto",
     "title": "COMPANY 2026 (for Derek Bailey)",
     "venue": "Cafe OTO",
@@ -1706,6 +1724,23 @@
       "tribute"
     ],
     "price": "£20 (£18 adv)"
+  },
+  {
+    "id": "evan-parker-matinee-oto",
+    "title": "Evan Parker Matinee Residency: Trio Improvisations",
+    "venue": "Cafe OTO",
+    "scene": "music",
+    "date": "2026-12-13",
+    "endDate": null,
+    "time": "14:00",
+    "url": "https://www.cafeoto.co.uk/events/evan-parker-matinee-residency-4/",
+    "blurb": "Evan Parker, Pat Thomas and Thurston Moore in an afternoon trio. Sold out at last check, waiting list only.",
+    "tags": [
+      "improv",
+      "saxophone",
+      "sold-out"
+    ],
+    "price": "sold out"
   },
   {
     "id": "2001-a-space-odyssey-70mm-pcc",
