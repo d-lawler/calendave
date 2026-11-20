@@ -463,23 +463,6 @@
     "price": null
   },
   {
-    "id": "london-palestine-film-festival-barbican",
-    "title": "London Palestine Film Festival 2026",
-    "venue": "Barbican Cinema",
-    "scene": "cinema",
-    "date": "2026-11-13",
-    "endDate": "2026-11-19",
-    "time": null,
-    "url": "https://www.barbican.org.uk/whats-on/2026/series/london-palestine-film-festival-2026",
-    "blurb": "A week of films and conversations, with further screenings at the Rio.",
-    "tags": [
-      "festival",
-      "palestine",
-      "documentary"
-    ],
-    "price": null
-  },
-  {
     "id": "barry-lyndon-35mm-pcc",
     "title": "Barry Lyndon on 35mm",
     "venue": "Prince Charles Cinema",
@@ -511,140 +494,6 @@
       "prize"
     ],
     "price": "free"
-  },
-  {
-    "id": "grouper-residency-cafe-oto",
-    "title": "Upset The Rhythm presents: Grouper, Two-Day Residency",
-    "venue": "Cafe OTO",
-    "scene": "music",
-    "date": "2026-11-18",
-    "endDate": "2026-11-19",
-    "time": "19:30",
-    "url": "https://www.cafeoto.co.uk/events/upset-the-rhythm-grouper/",
-    "blurb": "Liz Harris's fogbound guitar-and-voice hymns, with short films by Takashi Makino and Tanja Engelberts on night one and Coby Sey opening night two. Sold out, so it's the DICE waiting list or nothing.",
-    "tags": [
-      "ambient",
-      "drone",
-      "sold-out"
-    ],
-    "price": null
-  },
-  {
-    "id": "su-i-think-waiting-room",
-    "title": "su i think, day one",
-    "venue": "The Waiting Room",
-    "scene": "music",
-    "date": "2026-11-18",
-    "endDate": null,
-    "time": "19:30",
-    "url": "https://dice.fm/partner/tickets/event/6do297-su-i-think-18th-nov-the-waiting-room-london-tickets",
-    "blurb": "Two-night run, this being the first. Fragile bedroom pop with a stubborn streak.",
-    "tags": [
-      "indie",
-      "bedroom-pop"
-    ],
-    "price": null
-  },
-  {
-    "id": "mystery-movie-pcc",
-    "title": "Mystery Movie",
-    "venue": "Prince Charles Cinema",
-    "scene": "cinema",
-    "date": "2026-11-18",
-    "endDate": null,
-    "time": "20:45",
-    "url": "https://princecharlescinema.com/seasons-events/mystery",
-    "blurb": "The PCC's blind-date screening: you buy the ticket, they keep the title secret. Surrender is the whole point.",
-    "tags": [
-      "mystery",
-      "one-off"
-    ],
-    "price": null
-  },
-  {
-    "id": "bruguera-mishra-platforms-for-dissent-whitechapel-gallery",
-    "title": "Art Futures: Platforms for Dissent with Tania Bruguera and Pankaj Mishra",
-    "venue": "Whitechapel Gallery",
-    "scene": "words",
-    "date": "2026-11-19",
-    "endDate": null,
-    "time": "18:30",
-    "url": "https://www.whitechapelgallery.org/events/art-futures-platforms-for-dissent/",
-    "blurb": "The artist who keeps getting detained in Havana and the essayist of Age of Anger on politics and dissent. A £5 livestream exists for the shy.",
-    "tags": [
-      "talk",
-      "politics",
-      "art"
-    ],
-    "price": "£15"
-  },
-  {
-    "id": "jacqueline-rose-alice-spawls-two-women-lrb",
-    "title": "Jacqueline Rose & Alice Spawls: Two Women",
-    "venue": "London Review Bookshop",
-    "scene": "words",
-    "date": "2026-11-19",
-    "endDate": null,
-    "time": "19:00",
-    "url": "https://www.eventbrite.co.uk/e/jacqueline-rose-alice-spawls-two-women-tickets-2002711753767",
-    "blurb": "Jacqueline Rose discusses her new book with the LRB's Alice Spawls. Dense, sharp, very Bloomsbury.",
-    "tags": [
-      "psychoanalysis",
-      "criticism",
-      "talk"
-    ],
-    "price": "£10"
-  },
-  {
-    "id": "bongeziwe-mabandla-union-chapel",
-    "title": "Bongeziwe Mabandla",
-    "venue": "Union Chapel",
-    "scene": "music",
-    "date": "2026-11-19",
-    "endDate": null,
-    "time": "19:30",
-    "url": "https://unionchapel.org.uk/whats-on/bongeziwe-mabandla",
-    "blurb": "Xhosa-language folk and soul from the South African songwriter, suited to a chapel with an echo.",
-    "tags": [
-      "folk",
-      "soul",
-      "south-africa"
-    ],
-    "price": null
-  },
-  {
-    "id": "robocobra-quartet-lara-jones-ica",
-    "title": "Robocobra Quartet + Lara Jones",
-    "venue": "ICA",
-    "scene": "music",
-    "date": "2026-11-19",
-    "endDate": null,
-    "time": null,
-    "url": "https://www.ica.art/live/robocobra-quartet",
-    "blurb": "Sheffield art-jazz-punk agitators paired with saxophonist Lara Jones, in the ICA theatre.",
-    "tags": [
-      "jazz",
-      "art-rock",
-      "live"
-    ],
-    "price": null
-  },
-  {
-    "id": "visible-justice-hisham-matar-ica",
-    "title": "Visible Justice: Anatomies of Disappearance",
-    "venue": "ICA",
-    "scene": "words",
-    "date": "2026-11-19",
-    "endDate": null,
-    "time": null,
-    "url": "https://www.ica.art/talks/visible-justice-anatomies-of-disappearance",
-    "blurb": "Photographer Diana Matar and novelist Hisham Matar in conversation about disappearance and the pursuit of justice.",
-    "tags": [
-      "talk",
-      "photography",
-      "politics"
-    ],
-    "price": null
   },
   {
     "id": "jimi-tenor-band-cafe-oto",
@@ -999,6 +848,23 @@
     "price": "£20 (£18 adv)"
   },
   {
+    "id": "wilson-barton-lrb",
+    "title": "Emily Wilson & Polly Barton: Crossing the Wine Dark Sea",
+    "venue": "London Review Bookshop",
+    "scene": "words",
+    "date": "2026-11-24",
+    "endDate": null,
+    "time": "19:00",
+    "url": "https://www.eventbrite.co.uk/e/emily-wilson-polly-barton-crossing-the-wine-dark-sea-tickets-2002999985877",
+    "blurb": "The Odyssey's most celebrated recent translator talks to a translator of Japanese about what gets lost and found at sea. Sold out, so try the returns.",
+    "tags": [
+      "translation",
+      "literature",
+      "talk"
+    ],
+    "price": "sold out"
+  },
+  {
     "id": "tamas-gaskill-book-of-mysteries-london-review-bookshop",
     "title": "Rebecca Tamás & Malcolm Gaskill: The Book of Mysteries",
     "venue": "London Review Bookshop",
@@ -1131,6 +997,23 @@
       "drone"
     ],
     "price": "£20 (£17 adv)"
+  },
+  {
+    "id": "lrb-45s-listening-bar",
+    "title": "LRB 45s Listening Bar",
+    "venue": "London Review Bookshop",
+    "scene": "words",
+    "date": "2026-11-26",
+    "endDate": null,
+    "time": "19:00",
+    "url": "https://www.eventbrite.co.uk/e/lrb-45s-listening-bar-tickets-2004652989054",
+    "blurb": "A bookshop turns listening bar: bring the 7-inch singles, hear them loud and argue about them. Cheap at the price of a single.",
+    "tags": [
+      "vinyl",
+      "listening",
+      "social"
+    ],
+    "price": "£1.45"
   },
   {
     "id": "london-international-animation-festival-barbican",
@@ -1502,6 +1385,23 @@
       "improv"
     ],
     "price": "£14 (£12 adv)"
+  },
+  {
+    "id": "paul-warner-lrb",
+    "title": "Celia Paul & Marina Warner: Objects of Desire",
+    "venue": "London Review Bookshop",
+    "scene": "words",
+    "date": "2026-12-03",
+    "endDate": null,
+    "time": "19:00",
+    "url": "https://www.eventbrite.co.uk/e/celia-paul-marina-warner-objects-of-desire-tickets-2003287062531",
+    "blurb": "The painter and the mythographer on longing, things and the stories we hang on them. Sold out, so try the returns.",
+    "tags": [
+      "art",
+      "literature",
+      "talk"
+    ],
+    "price": "sold out"
   },
   {
     "id": "lips-to-moon-oto",
